@@ -3,13 +3,26 @@ How can we better allocate resources to contain influenza?
 
 Please navigate our submission via the contents side bar!
 
-Members of Team 18:
--------------
+Executive summary
+-----------------
 
-.. toctree::
-    :max_depth: 2
-    :caption: Contents
+**Motivation**
 
-.. _hello
-=========
-fsdfsfff
+**Methodology**
+
+**Conclusion**
+
+Exploratory Analysis
+--------------------
+
+
+
+
+
+Methodology
+-----------
+
+
+Results
+-------
+
