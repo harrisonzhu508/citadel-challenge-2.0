@@ -27,8 +27,8 @@ source_parsers = {
 # -- Project information -----------------------------------------------------
 
 project = 'Home'
-copyright = '2019, Harrison Zhu, Taketomo Isazawa, Benjamin Hillyard, Parley Yang'
-author = 'Harrison Zhu, Taketomo Isazawa, Benjamin Hillyard, Parley Yang'
+copyright = '2019, Harrison Zhu, Frank Qu, Enyi Shang, Ruiao Hu'
+author = 'Harrison Zhu, Frank Qu, Enyi Shang, Ruiao Hu'
 
 # The short X.Y version
 version = ''
