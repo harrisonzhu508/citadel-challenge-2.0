@@ -1,7 +1,7 @@
 How can we better allocate resources to contain influenza?
 ==========================================================
 
-Please navigate our submission via the contents side bar!
+Please navigate our submission via the contents side bar! Code freeze 15:30!
 
 Executive summary
 -----------------
