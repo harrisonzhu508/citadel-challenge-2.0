@@ -72,3 +72,13 @@ def aggregate_category_monthly(df, category="Engineer"):
 
     ## if yes how many and keep indexes as dict
 
+def county_referedum_table(euro_referendum_result, town_list):
+    """ run by 
+        county_referedum_table("clean_data/euro_referendum_result.csv", "clean_data/Towns_List.csv")
+    """
+    df_referendum = pd.read_csv(euro_referendum_result)
+    df_town = pd.read_csv(town_list)
+    df_tmp= df_town.merge(df_referendum[["Area","Pct_Remain","Pct_Leave","Pct_Rejected"]], left_on='Town', right_on='Area' ).groupby("County")
+    df_county = pd.core.groupby.generic.DataFrameGroupBy.mean(df_tmp)
+    return df_town.merge(df_county, left_on='County', right_on='County' )
+    
