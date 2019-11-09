@@ -1,4 +1,5 @@
 import pandas as pd
+import re
 from datetime import datetime
 from geopy.geocoders import Nominatim
 from geopy.extra.rate_limiter import RateLimiter
@@ -21,41 +22,48 @@ def get_lon_lat_from_zip(df):
 
 
 def aggregate_category_monthly(df, category="Engineer"):
+    df = df.dropna(subset=['zip', 'created', 'delete_date'])
+    # df = df.drop(columns=["last_checked", "last_updated", "ticke"])
+    # df = df.dropna()
+    find_year = lambda v: datetime.strptime(v.split('T')[0], '%Y-%m-%d').year
+    find_week = lambda v: int (datetime.strptime(str(v).split('T')[0], '%Y-%m-%d').strftime("%V"))
+    find_region = lambda v: re.split('\d+', v)[0]
 
-    find_year = lambda v: datetime.strptime(v, '%Y-%m-%d').year
-    find_week = lambda v: int (datetime.strptime(v, '%Y-%m-%d').strftime("%V"))
-
-    df["created"] = df["created"].apply(lambda v: v[:10])
-    df["delete_date"] = df["delete_date"].apply(lambda v: v[:10])
-    df["year"] = df["created"].apply(find_year)
-    df["start_week"] = df["created"].apply(find_week)
-    df["end_week"] = df["delete_date"].apply(find_week)
+    # df["created"] = df["created"].apply(lambda v: v[:10])
+    # df["delete_date"] = df["delete_date"].apply(lambda v: v[:10])
+    df["year"] = df["created"].progress_apply(find_year)
+    df["start_week"] = df["created"].progress_apply(find_week)
+    df["end_week"] = df["delete_date"].progress_apply(find_week)
+    df["county_zip"] = df["zip"].progress_apply(find_region)
 
     year_min = df["year"].min()
     year_max = df["year"].max()
     week_min = df["start_week"].min()
     week_max = df["start_week"].max()
-
     # filter category of jobs
-    df = df[df["title"].apply(lambda v: category in v)]
+    df = df[df["title"].progress_apply(lambda v: category in v)]
 
     # find interval weekly of each job
-    df_aggregate = pd.DataFrame(columns=["year", "week", "num_jobs"])
+    df_aggregate = pd.DataFrame(columns=["year", "week", "num_jobs", "county_zip"])
+    zip_list = df["county_zip"].unique().tolist()
+
+    print("Aggregating")
 
     # find if (week, year) is contained in region
-    for year in range(year_min, year_max + 1):
+    for year in tqdm(range(year_min, year_max + 1)):
         for week in range(week_min, week_max + 1):
-            index = (
-                (df["start_week"] <= week)
-                & (week <= df["end_week"])
-                & (df["year"] == year)
-            )
-            num_jobs = sum(index)
-            df_tmp = pd.DataFrame(
-                {"year": [year], "week": [week], "num_jobs": [num_jobs]}
-            )
-            df_aggregate = df_aggregate.append(df_tmp)
-
+            for zip_code in zip_list:
+                index = (
+                    (df["start_week"] <= week)
+                    & (week <= df["end_week"])
+                    & (df["year"] == year)
+                    & (df["county_zip"] == zip_code)
+                )
+                num_jobs = sum(index)
+                df_tmp = pd.DataFrame(
+                    {"year": [year], "week": [week], "num_jobs": [num_jobs], "county_zip":[zip_code]}
+                )
+                df_aggregate = df_aggregate.append(df_tmp)
     return df_aggregate
 
     ## if yes how many and keep indexes as dict
