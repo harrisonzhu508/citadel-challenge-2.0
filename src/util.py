@@ -26,14 +26,16 @@ def aggregate_category_monthly(df, category="Engineer"):
     # filter category of jobs
     df = df[df["title"].progress_apply(lambda v: category in v)]
 
-    df = df.dropna(subset=['city', 'created', 'delete_date'])
+    df = df.dropna(subset=["city", "created", "delete_date"])
     # df = df.drop(columns=["last_checked", "last_updated", "ticke"])
     # df = df.dropna()
-    find_year = lambda v: datetime.strptime(v.split('T')[0], '%Y-%m-%d').year
+    find_year = lambda v: datetime.strptime(v.split("T")[0], "%Y-%m-%d").year
     # find_week = lambda v: int (datetime.strptime(str(v).split('T')[0], '%Y-%m-%d').strftime("%V"))
 
-    find_month = lambda v: int (datetime.strptime(str(v).split('T')[0], '%Y-%m-%d').month)
-    find_region = lambda v: re.split('\d+', v)[0]
+    find_month = lambda v: int(
+        datetime.strptime(str(v).split("T")[0], "%Y-%m-%d").month
+    )
+    find_region = lambda v: re.split("\d+", v)[0]
 
     # df["created"] = df["created"].apply(lambda v: v[:10])
     # df["delete_date"] = df["delete_date"].apply(lambda v: v[:10])
@@ -65,12 +67,18 @@ def aggregate_category_monthly(df, category="Engineer"):
                 )
                 num_jobs = sum(index)
                 df_tmp = pd.DataFrame(
-                    {"year": [year], "week": [week], "num_jobs": [num_jobs], "city":[city]}
+                    {
+                        "year": [year],
+                        "week": [week],
+                        "num_jobs": [num_jobs],
+                        "city": [city],
+                    }
                 )
                 df_aggregate = df_aggregate.append(df_tmp)
     return df_aggregate
 
     ## if yes how many and keep indexes as dict
+
 
 def county_referedum_table(euro_referendum_result, town_list):
     """ run by 
@@ -78,7 +86,11 @@ def county_referedum_table(euro_referendum_result, town_list):
     """
     df_referendum = pd.read_csv(euro_referendum_result)
     df_town = pd.read_csv(town_list)
-    df_tmp= df_town.merge(df_referendum[["Area","Pct_Remain","Pct_Leave","Pct_Rejected"]], left_on='Town', right_on='Area' ).groupby("County")
+    df_tmp = df_town.merge(
+        df_referendum[["Area", "Pct_Remain", "Pct_Leave", "Pct_Rejected"]],
+        left_on="Town",
+        right_on="Area",
+    ).groupby("County")
     df_county = pd.core.groupby.generic.DataFrameGroupBy.mean(df_tmp)
-    return df_town.merge(df_county, left_on='County', right_on='County' )
-    
+    return df_town.merge(df_county, left_on="County", right_on="County")
+
