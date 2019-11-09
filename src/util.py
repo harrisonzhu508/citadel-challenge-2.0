@@ -1,4 +1,5 @@
 import pandas as pd
+from datetime import datetime
 from geopy.geocoders import Nominatim
 from geopy.extra.rate_limiter import RateLimiter
 from tqdm import tqdm
@@ -21,12 +22,8 @@ def get_lon_lat_from_zip(df):
 
 def aggregate_category_monthly(df, category="Engineer"):
 
-    find_year = lambda v: datetime.date(
-        int(v[:4]), int(v[5:7]), int(v[8:])
-    ).isocalendar()[0]
-    find_week = lambda v: datetime.date(
-        int(v[:4]), int(v[5:7]), int(v[8:])
-    ).isocalendar()[1]
+    find_year = lambda v: datetime.strptime(v, '%Y-%m-%d').year
+    find_week = lambda v: int (datetime.strptime(v, '%Y-%m-%d').strftime("%V"))
 
     df["created"] = df["created"].apply(lambda v: v[:10])
     df["delete_date"] = df["delete_date"].apply(lambda v: v[:10])
