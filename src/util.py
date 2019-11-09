@@ -32,14 +32,14 @@ def aggregate_category_monthly(df, category="Engineer"):
     find_year = lambda v: datetime.strptime(v.split('T')[0], '%Y-%m-%d').year
     # find_week = lambda v: int (datetime.strptime(str(v).split('T')[0], '%Y-%m-%d').strftime("%V"))
 
-    find_week = lambda v: int (datetime.strptime(str(v).split('T')[0], '%Y-%m-%d').month)
+    find_month = lambda v: int (datetime.strptime(str(v).split('T')[0], '%Y-%m-%d').month)
     find_region = lambda v: re.split('\d+', v)[0]
 
     # df["created"] = df["created"].apply(lambda v: v[:10])
     # df["delete_date"] = df["delete_date"].apply(lambda v: v[:10])
     df["year"] = df["created"].progress_apply(find_year)
-    df["start_week"] = df["created"].progress_apply(find_week)
-    df["end_week"] = df["delete_date"].progress_apply(find_week)
+    df["start_week"] = df["created"].progress_apply(find_month)
+    df["end_week"] = df["delete_date"].progress_apply(find_month)
     # df["county_zip"] = df["zip"].progress_apply(find_region)
 
     year_min = df["year"].min()
@@ -48,7 +48,7 @@ def aggregate_category_monthly(df, category="Engineer"):
     week_max = df["start_week"].max()
 
     # find interval weekly of each job
-    df_aggregate = pd.DataFrame(columns=["year", "week", "num_jobs", "county_zip"])
+    df_aggregate = pd.DataFrame(columns=["year", "week", "num_jobs", "city"])
     cities = df["city"].unique().tolist()
 
     print("Aggregating over {}".format(df.shape))
