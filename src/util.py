@@ -10,7 +10,7 @@ tqdm.pandas()
 
 def get_lon_lat_from_zip(df):
     df_copy = df.copy()
-    geolocator = Nominatim(user_agent="specify_your_app_name_here")
+    geolocator = Nominatim(user_agent="my-application")
     geocode = RateLimiter(geolocator.geocode, min_delay_seconds=0.1)
     # df['location'] = df['name'].apply(geocode)
     df_copy["location"] = df_copy["zip"].progress_apply(geocode)

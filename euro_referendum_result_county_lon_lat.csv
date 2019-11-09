@@ -1,0 +1,889 @@
+,Town,County,Country,Pct_Remain,Pct_Leave,Pct_Rejected,zip,_Town,Latitude (generated),Longitude (generated)
+0,Ampthill,Bedfordshire,England,45.835,54.165,0.12,Ampthill,Ampthill,52.0282,-0.4955
+1,Arlesey,Bedfordshire,England,45.835,54.165,0.12,Arlesey,Arlesey,52.0077,-0.2618
+2,Bedford,Bedfordshire,England,45.835,54.165,0.12,Bedford,Bedford,52.1364,-0.4675
+3,Biggleswade,Bedfordshire,England,45.835,54.165,0.12,Biggleswade,Biggleswade,52.0882,-0.2589
+4,Dunstable,Bedfordshire,England,45.835,54.165,0.12,Dunstable,Dunstable,51.8885,-0.5162
+5,Flitwick,Bedfordshire,England,45.835,54.165,0.12,Flitwick,Flitwick,52.0043,-0.4938
+6,Houghton Regis,Bedfordshire,England,45.835,54.165,0.12,Houghton Regis,Houghton Regis,51.9065,-0.5173
+7,Kempston,Bedfordshire,England,45.835,54.165,0.12,Kempston,Kempston,52.1192,-0.493
+8,Luton,Bedfordshire,England,45.835,54.165,0.12,Luton,Luton,51.369,0.5476
+9,Potton,Bedfordshire,England,45.835,54.165,0.12,Potton,Potton,52.1282,-0.2122
+10,Sandy,Bedfordshire,England,45.835,54.165,0.12,Sandy,Sandy,52.1296,-0.2932
+11,Shefford,Bedfordshire,England,45.835,54.165,0.12,Shefford,Shefford,52.0384,-0.3355
+12,Stotfold,Bedfordshire,England,45.835,54.165,0.12,Stotfold,Stotfold,52.0123,-0.2297
+13,Wixams,Bedfordshire,England,45.835,54.165,0.12,Wixams,Wixams,52.0938,-0.4624
+14,Woburn,Bedfordshire,England,45.835,54.165,0.12,Woburn,Woburn,51.9888,-0.6194
+15,Bracknell,Berkshire,England,53.46333333333333,46.53666666666667,0.07666666666666666,Bracknell,Bracknell,51.4144,-0.745
+16,Crowthorne,Berkshire,England,53.46333333333333,46.53666666666667,0.07666666666666666,Crowthorne,Crowthorne,51.3709,-0.795
+17,Earley,Berkshire,England,53.46333333333333,46.53666666666667,0.07666666666666666,Earley,Earley,51.4401,-0.9277
+18,Eton,Berkshire,England,53.46333333333333,46.53666666666667,0.07666666666666666,Eton,Eton,51.48,-0.6
+19,Hungerford,Berkshire,England,53.46333333333333,46.53666666666667,0.07666666666666666,Hungerford,Hungerford,51.4155,-1.5189
+20,Lambourn,Berkshire,England,53.46333333333333,46.53666666666667,0.07666666666666666,Lambourn,Lambourn,51.5097,-1.5308
+21,Maidenhead,Berkshire,England,53.46333333333333,46.53666666666667,0.07666666666666666,Maidenhead,Maidenhead,51.5224,-0.7272
+22,Newbury,Berkshire,England,53.46333333333333,46.53666666666667,0.07666666666666666,Newbury,Newbury,51.402,-1.3236
+23,Reading,Berkshire,England,53.46333333333333,46.53666666666667,0.07666666666666666,Reading,Reading,51.458,-0.9674
+24,Sandhurst,Berkshire,England,53.46333333333333,46.53666666666667,0.07666666666666666,Sandhurst,Sandhurst,51.9066,-2.2568
+25,Slough,Berkshire,England,53.46333333333333,46.53666666666667,0.07666666666666666,Slough,Slough,51.5111,-0.5941
+26,Thatcham,Berkshire,England,53.46333333333333,46.53666666666667,0.07666666666666666,Thatcham,Thatcham,51.4032,-1.2591
+27,Wokingham,Berkshire,England,53.46333333333333,46.53666666666667,0.07666666666666666,Wokingham,Wokingham,51.412,-0.8324
+28,Woodley,Berkshire,England,53.46333333333333,46.53666666666667,0.07666666666666666,Woodley,Woodley,51.453,-0.9047
+29,Amersham,Buckinghamshire,England,48.59,51.41,0.06,Amersham,Amersham,51.6767,-0.6077
+30,Aylesbury,Buckinghamshire,England,48.59,51.41,0.06,Aylesbury,Aylesbury,51.8161,-0.813
+31,Beaconsfield,Buckinghamshire,England,48.59,51.41,0.06,Beaconsfield,Beaconsfield,51.6083,-0.6571
+32,Bletchley,Buckinghamshire,England,48.59,51.41,0.06,Bletchley,Bletchley,51.9944,-0.7315
+33,Buckingham,Buckinghamshire,England,48.59,51.41,0.06,Buckingham,Buckingham,51.9983,-0.9787
+34,Chesham,Buckinghamshire,England,48.59,51.41,0.06,Chesham,Chesham,51.7063,-0.6123
+35,High Wycombe,Buckinghamshire,England,48.59,51.41,0.06,High Wycombe,High Wycombe,51.6294,-0.7473
+36,Marlow,Buckinghamshire,England,48.59,51.41,0.06,Marlow,Marlow,51.5719,-0.777
+37,Milton Keynes,Buckinghamshire,England,48.59,51.41,0.06,Milton Keynes,Milton Keynes,52.05,-0.7062
+38,Newport Pagnell,Buckinghamshire,England,48.59,51.41,0.06,Newport Pagnell,Newport Pagnell,52.0864,-0.7237
+39,Olney,Buckinghamshire,England,48.59,51.41,0.06,Olney,Olney,52.1539,-0.7014
+40,Princes Risborough,Buckinghamshire,England,48.59,51.41,0.06,Princes Risborough,Princes Risborough,51.7222,-0.8338
+41,Stony Stratford,Buckinghamshire,England,48.59,51.41,0.06,Stony Stratford,Stony Stratford,52.0566,-0.8501
+42,Wendover,Buckinghamshire,England,48.59,51.41,0.06,Wendover,Wendover,51.7677,-0.7443
+43,Winslow,Buckinghamshire,England,48.59,51.41,0.06,Winslow,Winslow,51.9444,-0.8819
+44,Woburn Sands,Buckinghamshire,England,48.59,51.41,0.06,Woburn Sands,Woburn Sands,52.0132,-0.653
+45,Cambridge,Cambridgeshire,England,56.48,43.519999999999996,0.09,Cambridge,Cambridge,52.2033,0.1249
+46,Chatteris,Cambridgeshire,England,56.48,43.519999999999996,0.09,Chatteris,Chatteris,52.4549,0.0504
+47,Ely,Cambridgeshire,England,56.48,43.519999999999996,0.09,Ely,Ely,52.3998,0.2631
+48,Fulbourn,Cambridgeshire,England,56.48,43.519999999999996,0.09,Fulbourn,Fulbourn,52.1829,0.2199
+49,Godmanchester,Cambridgeshire,England,56.48,43.519999999999996,0.09,Godmanchester,Godmanchester,52.318999999999996,-0.1728
+50,Huntingdon,Cambridgeshire,England,56.48,43.519999999999996,0.09,Huntingdon,Huntingdon,52.3314,-0.1848
+51,March,Cambridgeshire,England,56.48,43.519999999999996,0.09,March,March,52.5561,0.073
+52,Peterborough,Cambridgeshire,England,56.48,43.519999999999996,0.09,Peterborough,Peterborough,52.5739,-0.2417
+53,Ramsey,Cambridgeshire,England,56.48,43.519999999999996,0.09,Ramsey,Ramsey,51.9296,1.2137
+54,Soham,Cambridgeshire,England,56.48,43.519999999999996,0.09,Soham,Soham,52.3333,0.3387
+55,St Ives,Cambridgeshire,England,56.48,43.519999999999996,0.09,St Ives,St Ives,52.3325,-0.0766
+56,St Neots,Cambridgeshire,England,56.48,43.519999999999996,0.09,St Neots,St Neots,52.2268,-0.2589
+57,Whittlesey,Cambridgeshire,England,56.48,43.519999999999996,0.09,Whittlesey,Whittlesey,52.555,-0.1226
+58,Wisbech,Cambridgeshire,England,56.48,43.519999999999996,0.09,Wisbech,Wisbech,52.6656,0.1593
+59,Alsager,Cheshire,England,45.73,54.27,0.05,Alsager,Alsager,53.0969,-2.3031
+60,Birchwood,Cheshire,England,45.73,54.27,0.05,Birchwood,Birchwood,53.4219,-2.5224
+61,Bollington,Cheshire,England,45.73,54.27,0.05,Bollington,Bollington,53.2935,-2.1108
+62,Chester,Cheshire,England,45.73,54.27,0.05,Chester,Chester,53.1909,-2.8909
+63,Congleton,Cheshire,England,45.73,54.27,0.05,Congleton,Congleton,53.1631,-2.2111
+64,Crewe,Cheshire,England,45.73,54.27,0.05,Crewe,Crewe,53.0996,-2.4415
+65,Frodsham,Cheshire,England,45.73,54.27,0.05,Frodsham,Frodsham,53.2964,-2.7115
+66,Knutsford,Cheshire,England,45.73,54.27,0.05,Knutsford,Knutsford,53.3079,-2.3721
+67,Macclesfield,Cheshire,England,45.73,54.27,0.05,Macclesfield,Macclesfield,53.2607,-2.1255
+68,Middlewich,Cheshire,England,45.73,54.27,0.05,Middlewich,Middlewich,53.1927,-2.4453
+69,Nantwich,Cheshire,England,45.73,54.27,0.05,Nantwich,Nantwich,53.0671,-2.5221
+70,Neston,Cheshire,England,45.73,54.27,0.05,Neston,Neston,53.2905,-3.0638
+71,Northwich,Cheshire,England,45.73,54.27,0.05,Northwich,Northwich,53.2603,-2.5145
+72,Poynton with Worth,Cheshire,England,45.73,54.27,0.05,Poynton with Worth,Poynton with Worth,53.353,-2.1126
+73,Runcorn,Cheshire,England,45.73,54.27,0.05,Runcorn,Runcorn,53.3416,-2.7318
+74,Sandbach,Cheshire,England,45.73,54.27,0.05,Sandbach,Sandbach,53.1443,-2.3632
+75,Warrington,Cheshire,England,45.73,54.27,0.05,Warrington,Warrington,53.3899,-2.5943
+76,Widnes,Cheshire,England,45.73,54.27,0.05,Widnes,Widnes,53.3742,-2.7333
+77,Wilmslow,Cheshire,England,45.73,54.27,0.05,Wilmslow,Wilmslow,53.3261,-2.2328
+78,Barnard Castle,County Durham,England,37.125,62.875,0.060000000000000005,Barnard Castle,Barnard Castle,54.5444,-1.9239
+79,Billingham,County Durham,England,37.125,62.875,0.060000000000000005,Billingham,Billingham,54.6071,-1.2912
+80,Bishop Auckland,County Durham,England,37.125,62.875,0.060000000000000005,Bishop Auckland,Bishop Auckland,54.6641,-1.6753
+81,Crook,County Durham,England,37.125,62.875,0.060000000000000005,Crook,Crook,54.347,-2.8263
+82,Darlington,County Durham,England,37.125,62.875,0.060000000000000005,Darlington,Darlington,54.5296,-1.5518
+83,Eastington,County Durham,England,37.125,62.875,0.060000000000000005,Eastington,Eastington,51.7459,-2.327
+84,Ferryhill,County Durham,England,37.125,62.875,0.060000000000000005,Ferryhill,Ferryhill,54.6897,-1.5559
+85,Greater Willington,County Durham,England,37.125,62.875,0.060000000000000005,Greater Willington,Greater Willington,54.7194,-1.6845
+86,Hartlepool,County Durham,England,37.125,62.875,0.060000000000000005,Hartlepool,Hartlepool,54.6957,-1.2003
+87,Peterlee,County Durham,England,37.125,62.875,0.060000000000000005,Peterlee,Peterlee,54.7619,-1.3322
+88,Seaham,County Durham,England,37.125,62.875,0.060000000000000005,Seaham,Seaham,54.8372,-1.3356
+89,Sedgefield,County Durham,England,37.125,62.875,0.060000000000000005,Sedgefield,Sedgefield,54.6538,-1.4538
+90,Shildon,County Durham,England,37.125,62.875,0.060000000000000005,Shildon,Shildon,54.6351,-1.6480000000000001
+91,Spennymoor,County Durham,England,37.125,62.875,0.060000000000000005,Spennymoor,Spennymoor,54.6996,-1.6012
+92,Stanhope,County Durham,England,37.125,62.875,0.060000000000000005,Stanhope,Stanhope,51.1329,0.8507
+93,Stanley,County Durham,England,37.125,62.875,0.060000000000000005,Stanley,Stanley,56.4812,-3.4466
+94,Stockton on Tees,County Durham,England,37.125,62.875,0.060000000000000005,Stockton on Tees,Stockton on Tees,54.5628,-1.3151
+95,Stockton on Tees,North Yorkshire,England,44.474,55.525999999999996,0.062,Stockton on Tees,Stockton on Tees,54.5628,-1.3151
+96,Tow Law,County Durham,England,37.125,62.875,0.060000000000000005,Tow Law,Tow Law,54.7441,-1.8133
+97,Wolsingham,County Durham,England,37.125,62.875,0.060000000000000005,Wolsingham,Wolsingham,54.7305,-1.8854
+98,Appleby in Westmorland,Cumbria,England,39.86,60.14,0.06,Appleby in Westmorland,Appleby in Westmorland,54.5772,-2.4894
+99,Aspatria,Cumbria,England,39.86,60.14,0.06,Aspatria,Aspatria,54.7627,-3.3271
+100,Barrow in Furness,Cumbria,England,39.86,60.14,0.06,Barrow in Furness,Barrow in Furness,54.1113,-3.2289
+101,Brampton,Cumbria,England,39.86,60.14,0.06,Brampton,Brampton,53.2376,-1.5214
+102,Carlisle,Cumbria,England,39.86,60.14,0.06,Carlisle,Carlisle,54.8948,-2.9362
+103,Cleator Moor,Cumbria,England,39.86,60.14,0.06,Cleator Moor,Cleator Moor,54.5196,-3.5102
+104,Cockermouth,Cumbria,England,39.86,60.14,0.06,Cockermouth,Cockermouth,54.6615,-3.359
+105,Egremont,Cumbria,England,39.86,60.14,0.06,Egremont,Egremont,54.4838,-3.5328
+106,Grange over Sands,Cumbria,England,39.86,60.14,0.06,Grange over Sands,Grange over Sands,54.1931,-2.9095
+107,Kendal,Cumbria,England,39.86,60.14,0.06,Kendal,Kendal,54.3273,-2.7483
+108,Keswick,Cumbria,England,39.86,60.14,0.06,Keswick,Keswick,54.6044,-3.1376
+109,Kirkby Lonsdale,Cumbria,England,39.86,60.14,0.06,Kirkby Lonsdale,Kirkby Lonsdale,54.2018,-2.5967
+110,Kirkby Stephen,Cumbria,England,39.86,60.14,0.06,Kirkby Stephen,Kirkby Stephen,54.4734,-2.3476
+111,Longtown,Cumbria,England,39.86,60.14,0.06,Longtown,Longtown,51.9567,-2.9884
+112,Maryport,Cumbria,England,39.86,60.14,0.06,Maryport,Maryport,54.713,-3.4998
+113,Millom,Cumbria,England,39.86,60.14,0.06,Millom,Millom,54.1957,-3.2851
+114,Milnthorpe,Cumbria,England,39.86,60.14,0.06,Milnthorpe,Milnthorpe,54.2277,-2.7721
+115,Penrith,Cumbria,England,39.86,60.14,0.06,Penrith,Penrith,54.6636,-2.7527
+116,Sedbergh,Cumbria,England,39.86,60.14,0.06,Sedbergh,Sedbergh,54.3227,-2.5287
+117,Ulverston,Cumbria,England,39.86,60.14,0.06,Ulverston,Ulverston,54.1959,-3.0963
+118,Whitehaven,Cumbria,England,39.86,60.14,0.06,Whitehaven,Whitehaven,54.5474,-3.5885
+119,Wigton,Cumbria,England,39.86,60.14,0.06,Wigton,Wigton,54.825,-3.1583
+120,Windermere,Cumbria,England,39.86,60.14,0.06,Windermere,Windermere,54.3787,-2.9044
+121,Workington,Cumbria,England,39.86,60.14,0.06,Workington,Workington,54.6416,-3.5459
+122,Alfreton,Derbyshire,England,37.303333333333335,62.696666666666665,0.08,Alfreton,Alfreton,53.0973,-1.39
+123,Ashbourne,Derbyshire,England,37.303333333333335,62.696666666666665,0.08,Ashbourne,Ashbourne,53.0173,-1.7343
+124,Bakewell,Derbyshire,England,37.303333333333335,62.696666666666665,0.08,Bakewell,Bakewell,53.2148,-1.6759
+125,Belper,Derbyshire,England,37.303333333333335,62.696666666666665,0.08,Belper,Belper,53.0229,-1.4817
+126,Chapel en le Frith,Derbyshire,England,37.303333333333335,62.696666666666665,0.08,Chapel en le Frith,Chapel en le Frith,53.3233,-1.9148
+127,Chesterfield,Derbyshire,England,37.303333333333335,62.696666666666665,0.08,Chesterfield,Chesterfield,53.2352,-1.4264
+128,Clay Cross,Derbyshire,England,37.303333333333335,62.696666666666665,0.08,Clay Cross,Clay Cross,53.1653,-1.4132
+129,Darley Dale,Derbyshire,England,37.303333333333335,62.696666666666665,0.08,Darley Dale,Darley Dale,53.1624,-1.5902
+130,Derby,Derbyshire,England,37.303333333333335,62.696666666666665,0.08,Derby,Derby,52.9213,-1.4761
+131,Dronfield,Derbyshire,England,37.303333333333335,62.696666666666665,0.08,Dronfield,Dronfield,53.3006,-1.466
+132,Fairfield,Derbyshire,England,37.303333333333335,62.696666666666665,0.08,Fairfield,Fairfield,52.0004,-0.2486
+133,Heanor,Derbyshire,England,37.303333333333335,62.696666666666665,0.08,Heanor,Heanor,53.0146,-1.3575
+134,Killamarsh,Derbyshire,England,37.303333333333335,62.696666666666665,0.08,Killamarsh,Killamarsh,53.3236,-1.3184
+135,New Mills,Derbyshire,England,37.303333333333335,62.696666666666665,0.08,New Mills,New Mills,53.3654,-2.0013
+136,Ripley,Derbyshire,England,37.303333333333335,62.696666666666665,0.08,Ripley,Ripley,53.0515,-1.4026
+137,Sandiacre,Derbyshire,England,37.303333333333335,62.696666666666665,0.08,Sandiacre,Sandiacre,52.9252,-1.2945
+138,Shirebrook,Derbyshire,England,37.303333333333335,62.696666666666665,0.08,Shirebrook,Shirebrook,53.2063,-1.2205
+139,Whaley Bridge,Derbyshire,England,37.303333333333335,62.696666666666665,0.08,Whaley Bridge,Whaley Bridge,53.3301,-1.9834
+140,Wirksworth,Derbyshire,England,37.303333333333335,62.696666666666665,0.08,Wirksworth,Wirksworth,53.0822,-1.5732
+141,Ashburton,Devon,England,47.67,52.33,0.07500000000000001,Ashburton,Ashburton,50.5176,-3.7561
+142,Axminster,Devon,England,47.67,52.33,0.07500000000000001,Axminster,Axminster,50.7821,-2.998
+143,Barnstaple,Devon,England,47.67,52.33,0.07500000000000001,Barnstaple,Barnstaple,51.0804,-4.06
+144,Bideford,Devon,England,47.67,52.33,0.07500000000000001,Bideford,Bideford,51.0181,-4.2064
+145,Bovey Tracey,Devon,England,47.67,52.33,0.07500000000000001,Bovey Tracey,Bovey Tracey,50.5924,-3.6761
+146,Bradninch,Devon,England,47.67,52.33,0.07500000000000001,Bradninch,Bradninch,50.8265,-3.4237
+147,Brixham,Devon,England,47.67,52.33,0.07500000000000001,Brixham,Brixham,50.3952,-3.5145
+148,Buckfastleigh,Devon,England,47.67,52.33,0.07500000000000001,Buckfastleigh,Buckfastleigh,50.4816,-3.778
+149,Budleigh Salterton,Devon,England,47.67,52.33,0.07500000000000001,Budleigh Salterton,Budleigh Salterton,50.6296,-3.3272
+150,Chagford,Devon,England,47.67,52.33,0.07500000000000001,Chagford,Chagford,50.6731,-3.8403
+151,Chudleigh,Devon,England,47.67,52.33,0.07500000000000001,Chudleigh,Chudleigh,50.6046,-3.6005
+152,Chulmleigh,Devon,England,47.67,52.33,0.07500000000000001,Chulmleigh,Chulmleigh,50.9127,-3.8689999999999998
+153,Colyton,Devon,England,47.67,52.33,0.07500000000000001,Colyton,Colyton,50.7401,-3.0663
+154,Crediton,Devon,England,47.67,52.33,0.07500000000000001,Crediton,Crediton,50.7896,-3.659
+155,Cullompton,Devon,England,47.67,52.33,0.07500000000000001,Cullompton,Cullompton,50.8579,-3.3928
+156,Dartmouth,Devon,England,47.67,52.33,0.07500000000000001,Dartmouth,Dartmouth,50.3515,-3.5838
+157,Dawlish,Devon,England,47.67,52.33,0.07500000000000001,Dawlish,Dawlish,50.5797,-3.4689
+158,Exeter,Devon,England,47.67,52.33,0.07500000000000001,Exeter,Exeter,50.7256,-3.5267
+159,Exmouth,Devon,England,47.67,52.33,0.07500000000000001,Exmouth,Exmouth,50.6191,-3.4148
+160,Great Torrington,Devon,England,47.67,52.33,0.07500000000000001,Great Torrington,Great Torrington,50.9521,-4.1429
+161,Hartland,Devon,England,47.67,52.33,0.07500000000000001,Hartland,Hartland,50.9928,-4.4801
+162,Hatherleigh,Devon,England,47.67,52.33,0.07500000000000001,Hatherleigh,Hatherleigh,50.8202,-4.0724
+163,Highampton,Devon,England,47.67,52.33,0.07500000000000001,Highampton,Highampton,50.8175,-4.155
+164,Holsworthy,Devon,England,47.67,52.33,0.07500000000000001,Holsworthy,Holsworthy,50.8124,-4.3526
+165,Honiton,Devon,England,47.67,52.33,0.07500000000000001,Honiton,Honiton,50.7981,-3.1925
+166,Ilfracombe,Devon,England,47.67,52.33,0.07500000000000001,Ilfracombe,Ilfracombe,51.2077,-4.1255
+167,Ivybridge,Devon,England,47.67,52.33,0.07500000000000001,Ivybridge,Ivybridge,50.3918,-3.9178
+168,Kingsbridge,Devon,England,47.67,52.33,0.07500000000000001,Kingsbridge,Kingsbridge,50.2849,-3.779
+169,Kingsteignton,Devon,England,47.67,52.33,0.07500000000000001,Kingsteignton,Kingsteignton,50.5496,-3.5956
+170,Lynton,Devon,England,47.67,52.33,0.07500000000000001,Lynton,Lynton,51.2294,-3.8365
+171,Modbury,Devon,England,47.67,52.33,0.07500000000000001,Modbury,Modbury,50.3511,-3.8887
+172,Moretonhampstead,Devon,England,47.67,52.33,0.07500000000000001,Moretonhampstead,Moretonhampstead,50.6612,-3.7667
+173,Newton Abbot,Devon,England,47.67,52.33,0.07500000000000001,Newton Abbot,Newton Abbot,50.5296,-3.6112
+174,North Tawton,Devon,England,47.67,52.33,0.07500000000000001,North Tawton,North Tawton,50.7996,-3.8955
+175,Northam,Devon,England,47.67,52.33,0.07500000000000001,Northam,Northam,51.0401,-4.2136
+176,Okehampton,Devon,England,47.67,52.33,0.07500000000000001,Okehampton,Okehampton,50.7377,-4.0003
+177,Ottery St Mary,Devon,England,47.67,52.33,0.07500000000000001,Ottery St Mary,Ottery St Mary,50.7466,-3.2845
+178,Plymouth,Devon,England,47.67,52.33,0.07500000000000001,Plymouth,Plymouth,50.3713,-4.1426
+179,Salcombe,Devon,England,47.67,52.33,0.07500000000000001,Salcombe,Salcombe,50.2388,-3.7726
+180,Seaton,Devon,England,47.67,52.33,0.07500000000000001,Seaton,Seaton,53.905,-0.2308
+181,Sidmouth,Devon,England,47.67,52.33,0.07500000000000001,Sidmouth,Sidmouth,50.678999999999995,-3.2377
+182,South Molton,Devon,England,47.67,52.33,0.07500000000000001,South Molton,South Molton,51.0171,-3.8331
+183,Tavistock,Devon,England,47.67,52.33,0.07500000000000001,Tavistock,Tavistock,50.5485,-4.1444
+184,Teignmouth,Devon,England,47.67,52.33,0.07500000000000001,Teignmouth,Teignmouth,50.5463,-3.4959
+185,Tiverton,Devon,England,47.67,52.33,0.07500000000000001,Tiverton,Tiverton,53.1393,-2.6716
+186,Torquay,Devon,England,47.67,52.33,0.07500000000000001,Torquay,Torquay,50.4679,-3.5437
+187,Totnes,Devon,England,47.67,52.33,0.07500000000000001,Totnes,Totnes,50.4323,-3.687
+188,Beaminster,Dorset,England,42.70666666666667,57.29333333333333,0.06,Beaminster,Beaminster,50.8099,-2.7394
+189,Blandford Forum,Dorset,England,42.70666666666667,57.29333333333333,0.06,Blandford Forum,Blandford Forum,50.8576,-2.1632
+190,Bournemouth,Dorset,England,42.70666666666667,57.29333333333333,0.06,Bournemouth,Bournemouth,50.7195,-1.8768
+191,Bridport,Dorset,England,42.70666666666667,57.29333333333333,0.06,Bridport,Bridport,50.7338,-2.7589
+192,Chickerell,Dorset,England,42.70666666666667,57.29333333333333,0.06,Chickerell,Chickerell,50.6245,-2.5036
+193,Dorchester,Dorset,England,42.70666666666667,57.29333333333333,0.06,Dorchester,Dorchester,51.6446,-1.1665
+194,Dorchester,Oxfordshire,England,70.27,29.73,0.11,Dorchester,Dorchester,51.6446,-1.1665
+195,Ferndown,Dorset,England,42.70666666666667,57.29333333333333,0.06,Ferndown,Ferndown,50.8021,-1.8889
+196,Gillingham,Dorset,England,42.70666666666667,57.29333333333333,0.06,Gillingham,Gillingham,51.0385,-2.2767
+197,Gillingham,Kent,England,43.56,56.440000000000005,0.06,Gillingham,Gillingham,51.0385,-2.2767
+198,Lyme Regis,Dorset,England,42.70666666666667,57.29333333333333,0.06,Lyme Regis,Lyme Regis,50.7253,-2.9346
+199,Poole,Dorset,England,42.70666666666667,57.29333333333333,0.06,Poole,Poole,50.7179,-1.9815
+200,Portland,Dorset,England,42.70666666666667,57.29333333333333,0.06,Portland,Portland,50.5675,-2.4447
+201,Stalbridge,Dorset,England,42.70666666666667,57.29333333333333,0.06,Stalbridge,Stalbridge,50.9594,-2.3783
+202,Sturminster Newton,Dorset,England,42.70666666666667,57.29333333333333,0.06,Sturminster Newton,Sturminster Newton,50.9274,-2.3049
+203,Swanage,Dorset,England,42.70666666666667,57.29333333333333,0.06,Swanage,Swanage,50.6087,-1.9572
+204,Verwood,Dorset,England,42.70666666666667,57.29333333333333,0.06,Verwood,Verwood,50.8827,-1.8719999999999999
+205,Weymouth,Dorset,England,42.70666666666667,57.29333333333333,0.06,Weymouth,Weymouth,50.6191,-2.4562
+206,Wimborne Minster,Dorset,England,42.70666666666667,57.29333333333333,0.06,Wimborne Minster,Wimborne Minster,50.7995,-1.9873
+207,Battle,East Sussex,England,46.62,53.38,0.08666666666666667,Battle,Battle,51.4662,-0.9992
+208,Brighton,East Sussex,England,46.62,53.38,0.08666666666666667,Brighton,Brighton,50.821999999999996,-0.1374
+209,Crowborough,East Sussex,England,46.62,53.38,0.08666666666666667,Crowborough,Crowborough,51.059,0.1636
+210,Eastbourne,East Sussex,England,46.62,53.38,0.08666666666666667,Eastbourne,Eastbourne,50.7727,0.2763
+211,Hailsham,East Sussex,England,46.62,53.38,0.08666666666666667,Hailsham,Hailsham,50.8647,0.2579
+212,Hastings,East Sussex,England,46.62,53.38,0.08666666666666667,Hastings,Hastings,50.8554,0.5825
+213,Heathfield,East Sussex,England,46.62,53.38,0.08666666666666667,Heathfield,Heathfield,50.9717,0.2517
+214,Hove,East Sussex,England,46.62,53.38,0.08666666666666667,Hove,Hove,50.8287,-0.1746
+215,Lewes,East Sussex,England,46.62,53.38,0.08666666666666667,Lewes,Lewes,50.8741,0.0121
+216,Newhaven,East Sussex,England,46.62,53.38,0.08666666666666667,Newhaven,Newhaven,50.7887,0.0484
+217,Peacehaven,East Sussex,England,46.62,53.38,0.08666666666666667,Peacehaven,Peacehaven,50.7962,-0.0027
+218,Polegate,East Sussex,England,46.62,53.38,0.08666666666666667,Polegate,Polegate,50.8232,0.2455
+219,Rye,East Sussex,England,46.62,53.38,0.08666666666666667,Rye,Rye,50.9512,0.7328
+220,Seaford,East Sussex,England,46.62,53.38,0.08666666666666667,Seaford,Seaford,50.7723,0.1023
+221,Telscombe,East Sussex,England,46.62,53.38,0.08666666666666667,Telscombe,Telscombe,50.8137,-0.0046
+222,Uckfield,East Sussex,England,46.62,53.38,0.08666666666666667,Uckfield,Uckfield,50.9695,0.0995
+223,Wadhurst,East Sussex,England,46.62,53.38,0.08666666666666667,Wadhurst,Wadhurst,51.0605,0.3384
+224,Basildon,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Basildon,Basildon,51.4925,-1.1357
+225,Billericay,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Billericay,Billericay,51.629,0.4199
+226,Braintree,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Braintree,Braintree,51.879,0.5502
+227,Brentwood,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Brentwood,Brentwood,51.6204,0.3029
+228,Brightlingsea,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Brightlingsea,Brightlingsea,51.8102,1.0231
+229,Buckhurst Hill,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Buckhurst Hill,Buckhurst Hill,51.6269,0.0415
+230,Burnham on Crouch,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Burnham on Crouch,Burnham on Crouch,51.6355,0.8593
+231,Canvey Island,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Canvey Island,Canvey Island,51.5235,0.6037
+232,Chelmsford,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Chelmsford,Chelmsford,51.7345,0.4724
+233,Clacton on Sea,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Clacton on Sea,Clacton on Sea,51.8019,1.1534
+234,Coggeshall,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Coggeshall,Coggeshall,51.8758,0.6861
+235,Colchester,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Colchester,Colchester,51.8931,0.9046
+236,Corringham,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Corringham,Corringham,53.4136,-0.6898
+237,Eastwood,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Eastwood,Eastwood,53.0172,-1.3039
+238,Eastwood,Nottinghamshire,England,39.15,60.85,0.08,Eastwood,Eastwood,53.0172,-1.3039
+239,Epping,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Epping,Epping,51.6979,0.1094
+240,Great Dunmow,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Great Dunmow,Great Dunmow,51.872,0.3628
+241,Hadleigh,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Hadleigh,Hadleigh,52.0442,0.9542
+242,Hadleigh,Suffolk,England,41.74,58.26,0.07,Hadleigh,Hadleigh,52.0442,0.9542
+243,Halstead,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Halstead,Halstead,51.9438,0.6392
+244,Harlow,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Harlow,Harlow,51.7676,0.0975
+245,Harwich,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Harwich,Harwich,51.9446,1.2899
+246,Heybridge,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Heybridge,Heybridge,51.7432,0.6856
+247,Hockley,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Hockley,Hockley,51.6011,0.657
+248,Ingatestone,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Ingatestone,Ingatestone,51.6711,0.385
+249,Leigh on Sea,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Leigh on Sea,Leigh on Sea,51.5415,0.6469
+250,Loughton,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Loughton,Loughton,52.0293,-0.7821
+251,Maldon,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Maldon,Maldon,51.7312,0.6792
+252,Manningtree,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Manningtree,Manningtree,51.9441,1.0603
+253,Ongar,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Ongar,Ongar,51.7038,0.2455
+254,Rayleigh,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Rayleigh,Rayleigh,51.5885,0.6012
+255,Rochford,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Rochford,Rochford,51.5839,0.7056
+256,Saffron Walden,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Saffron Walden,Saffron Walden,52.0216,0.2411
+257,South Woodham Ferrers,Essex,England,38.4225,61.57750000000001,0.058750000000000004,South Woodham Ferrers,South Woodham Ferrers,51.644,0.6177
+258,Southend on Sea,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Southend on Sea,Southend on Sea,51.5389,0.7115
+259,Southminster,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Southminster,Southminster,51.6619,0.8301
+260,Thaxted,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Thaxted,Thaxted,51.9558,0.3482
+261,Waltham Abbey,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Waltham Abbey,Waltham Abbey,51.6892,-0.0009
+262,West Mersea,Essex,England,38.4225,61.57750000000001,0.058750000000000004,West Mersea,West Mersea,51.777,0.9174
+263,Wickford,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Wickford,Wickford,51.6125,0.5235
+264,Witham,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Witham,Witham,51.7993,0.6433
+265,Wivenhoe,Essex,England,38.4225,61.57750000000001,0.058750000000000004,Wivenhoe,Wivenhoe,51.8675,0.9627
+266,Berkeley,Gloucestershire,England,49.7575,50.2425,0.065,Berkeley,Berkeley,51.6913,-2.4583
+267,Bradley Stoke,Gloucestershire,England,49.7575,50.2425,0.065,Bradley Stoke,Bradley Stoke,51.5375,-2.546
+268,Cheltenham,Gloucestershire,England,49.7575,50.2425,0.065,Cheltenham,Cheltenham,51.8996,-2.0712
+269,Chipping Campden,Gloucestershire,England,49.7575,50.2425,0.065,Chipping Campden,Chipping Campden,52.0497,-1.7814
+270,Cinderford,Gloucestershire,England,49.7575,50.2425,0.065,Cinderford,Cinderford,51.8245,-2.4985
+271,Cirencester,Gloucestershire,England,49.7575,50.2425,0.065,Cirencester,Cirencester,51.717,-1.9685
+272,Dursley,Gloucestershire,England,49.7575,50.2425,0.065,Dursley,Dursley,51.6814,-2.344
+273,Fairford,Gloucestershire,England,49.7575,50.2425,0.065,Fairford,Fairford,51.7079,-1.7773
+274,Filton,Gloucestershire,England,49.7575,50.2425,0.065,Filton,Filton,51.5117,-2.572
+275,Gloucester,Gloucestershire,England,49.7575,50.2425,0.065,Gloucester,Gloucester,51.8654,-2.2458
+276,Kingswood,Gloucestershire,England,49.7575,50.2425,0.065,Kingswood,Kingswood,51.4621,-2.4991
+277,Lechlade,Gloucestershire,England,49.7575,50.2425,0.065,Lechlade,Lechlade,51.6945,-1.6922
+278,Lydney,Gloucestershire,England,49.7575,50.2425,0.065,Lydney,Lydney,51.7259,-2.5313
+279,Minchinhampton,Gloucestershire,England,49.7575,50.2425,0.065,Minchinhampton,Minchinhampton,51.7053,-2.1875
+280,Mitcheldean,Gloucestershire,England,49.7575,50.2425,0.065,Mitcheldean,Mitcheldean,51.864,-2.4877
+281,Moreton in Marsh,Gloucestershire,England,49.7575,50.2425,0.065,Moreton in Marsh,Moreton in Marsh,51.9906,-1.7023
+282,Nailsworth,Gloucestershire,England,49.7575,50.2425,0.065,Nailsworth,Nailsworth,51.6952,-2.2186
+283,Newent,Gloucestershire,England,49.7575,50.2425,0.065,Newent,Newent,51.9309,-2.4054
+284,Painswick,Gloucestershire,England,49.7575,50.2425,0.065,Painswick,Painswick,51.7857,-2.1947
+285,Patchway,Gloucestershire,England,49.7575,50.2425,0.065,Patchway,Patchway,51.5341,-2.574
+286,Stow on the Wold,Gloucestershire,England,49.7575,50.2425,0.065,Stow on the Wold,Stow on the Wold,51.9303,-1.723
+287,Tetbury,Gloucestershire,England,49.7575,50.2425,0.065,Tetbury,Tetbury,51.6393,-2.1595
+288,Tewkesbury,Gloucestershire,England,49.7575,50.2425,0.065,Tewkesbury,Tewkesbury,51.9938,-2.155
+289,Thornbury,Gloucestershire,England,49.7575,50.2425,0.065,Thornbury,Thornbury,51.6078,-2.5255
+290,Wickwar,Gloucestershire,England,49.7575,50.2425,0.065,Wickwar,Wickwar,51.5943,-2.3991
+291,Winchcombe,Gloucestershire,England,49.7575,50.2425,0.065,Winchcombe,Winchcombe,51.953,-1.9655
+292,Wotton under Edge,Gloucestershire,England,49.7575,50.2425,0.065,Wotton under Edge,Wotton under Edge,51.6378,-2.3547
+293,Yate,Gloucestershire,England,49.7575,50.2425,0.065,Yate,Yate,51.5403,-2.4133
+294,Barking,Greater London,England,53.49285714285714,46.50714285714286,0.09571428571428571,Barking,Barking,52.1372,1.0268
+295,Croydon,Greater London,England,53.49285714285714,46.50714285714286,0.09571428571428571,Croydon,Croydon,52.1278,-0.0813
+296,Croydon,Surrey,England,56.93333333333333,43.06666666666667,0.08,Croydon,Croydon,52.1278,-0.0813
+297,East Ham,Greater London,England,53.49285714285714,46.50714285714286,0.09571428571428571,East Ham,East Ham,53.3271,-2.9531
+298,Harrow,Greater London,England,53.49285714285714,46.50714285714286,0.09571428571428571,Harrow,Harrow,51.578,-0.3374
+299,Richmond,Greater London,England,53.49285714285714,46.50714285714286,0.09571428571428571,Richmond,Richmond,54.4031,-1.7375
+300,Richmond,North Yorkshire,England,44.474,55.525999999999996,0.062,Richmond,Richmond,54.4031,-1.7375
+301,West Ham,Greater London,England,53.49285714285714,46.50714285714286,0.09571428571428571,West Ham,West Ham,50.8171,0.3241
+302,Altrincham,Greater Manchester,England,44.83,55.17,0.08875,Altrincham,Altrincham,53.38399999999999,-2.3525
+303,Ashton under Lyne,Greater Manchester,England,44.83,55.17,0.08875,Ashton under Lyne,Ashton under Lyne,53.4888,-2.0989
+304,Atherton,Greater Manchester,England,44.83,55.17,0.08875,Atherton,Atherton,53.525,-2.4906
+305,Blackrod,Greater Manchester,England,44.83,55.17,0.08875,Blackrod,Blackrod,53.5938,-2.5804
+306,Bolton,Greater Manchester,England,44.83,55.17,0.08875,Bolton,Bolton,53.5785,-2.4267
+307,Bury,Greater Manchester,England,44.83,55.17,0.08875,Bury,Bury,53.5964,-2.2904
+308,Cadishead,Greater Manchester,England,44.83,55.17,0.08875,Cadishead,Cadishead,53.4232,-2.439
+309,Cheadle,Greater Manchester,England,44.83,55.17,0.08875,Cheadle,Cheadle,52.9884,-1.9938
+310,Cheadle,Staffordshire,England,39.24333333333333,60.75666666666667,0.056666666666666664,Cheadle,Cheadle,52.9884,-1.9938
+311,Denton,Greater Manchester,England,44.83,55.17,0.08875,Denton,Denton,53.4548,-2.1153
+312,Heywood,Greater Manchester,England,44.83,55.17,0.08875,Heywood,Heywood,51.2837,-2.1902
+313,Hindley,Greater Manchester,England,44.83,55.17,0.08875,Hindley,Hindley,53.5335,-2.5778
+314,Horwich,Greater Manchester,England,44.83,55.17,0.08875,Horwich,Horwich,53.5965,-2.541
+315,Irlam,Greater Manchester,England,44.83,55.17,0.08875,Irlam,Irlam,53.4488,-2.4224
+316,Manchester,Greater Manchester,England,44.83,55.17,0.08875,Manchester,Manchester,53.4791,-2.2441
+317,Middleton,Greater Manchester,England,44.83,55.17,0.08875,Middleton,Middleton,52.5832,-1.7388
+318,Milnrow,Greater Manchester,England,44.83,55.17,0.08875,Milnrow,Milnrow,53.6083,-2.1099
+319,Oldham,Greater Manchester,England,44.83,55.17,0.08875,Oldham,Oldham,53.5416,-2.1148
+320,Partington,Greater Manchester,England,44.83,55.17,0.08875,Partington,Partington,53.4215,-2.4282
+321,Rochdale,Greater Manchester,England,44.83,55.17,0.08875,Rochdale,Rochdale,53.619,-2.1628
+322,Sale,Greater Manchester,England,44.83,55.17,0.08875,Sale,Sale,53.426,-2.3204
+323,Salford,Greater Manchester,England,44.83,55.17,0.08875,Salford,Salford,53.4877,-2.2892
+324,Stalybridge,Greater Manchester,England,44.83,55.17,0.08875,Stalybridge,Stalybridge,53.483999999999995,-2.0563
+325,Stockport,Greater Manchester,England,44.83,55.17,0.08875,Stockport,Stockport,53.4079,-2.1602
+326,Stretford,Greater Manchester,England,44.83,55.17,0.08875,Stretford,Stretford,53.4454,-2.3223
+327,Swinton,Greater Manchester,England,44.83,55.17,0.08875,Swinton,Swinton,54.1499,-0.8391
+328,Swinton,South Yorkshire,England,35.9625,64.0375,0.055,Swinton,Swinton,54.1499,-0.8391
+329,Walkden,Greater Manchester,England,44.83,55.17,0.08875,Walkden,Walkden,53.5242,-2.3984
+330,Westhoughton,Greater Manchester,England,44.83,55.17,0.08875,Westhoughton,Westhoughton,53.5502,-2.5226
+331,Wigan,Greater Manchester,England,44.83,55.17,0.08875,Wigan,Wigan,53.5457,-2.6265
+332,Worsley,Greater Manchester,England,44.83,55.17,0.08875,Worsley,Worsley,53.5055,-2.3954
+333,Aldershot,Hampshire,England,44.75428571428571,55.24571428571429,0.06857142857142857,Aldershot,Aldershot,51.2494,-0.763
+334,Alton,Hampshire,England,44.75428571428571,55.24571428571429,0.06857142857142857,Alton,Alton,52.9768,-1.8935
+335,Alton,Staffordshire,England,39.24333333333333,60.75666666666667,0.056666666666666664,Alton,Alton,52.9768,-1.8935
+336,Andover,Hampshire,England,44.75428571428571,55.24571428571429,0.06857142857142857,Andover,Andover,51.2078,-1.4794
+337,Basingstoke,Hampshire,England,44.75428571428571,55.24571428571429,0.06857142857142857,Basingstoke,Basingstoke,51.2628,-1.0862
+338,Bishop's Waltham,Hampshire,England,44.75428571428571,55.24571428571429,0.06857142857142857,Bishop's Waltham,Bishop's Waltham,50.9625,-1.2106
+339,Eastleigh,Hampshire,England,44.75428571428571,55.24571428571429,0.06857142857142857,Eastleigh,Eastleigh,50.9676,-1.3528
+340,Fareham,Hampshire,England,44.75428571428571,55.24571428571429,0.06857142857142857,Fareham,Fareham,50.8527,-1.1783
+341,Farnborough,Hampshire,England,44.75428571428571,55.24571428571429,0.06857142857142857,Farnborough,Farnborough,51.2938,-0.7554
+342,Fleet,Hampshire,England,44.75428571428571,55.24571428571429,0.06857142857142857,Fleet,Fleet,51.281000000000006,-0.8418
+343,Fordingbridge,Hampshire,England,44.75428571428571,55.24571428571429,0.06857142857142857,Fordingbridge,Fordingbridge,50.9268,-1.7917
+344,Gosport,Hampshire,England,44.75428571428571,55.24571428571429,0.06857142857142857,Gosport,Gosport,50.7952,-1.1211
+345,Havant,Hampshire,England,44.75428571428571,55.24571428571429,0.06857142857142857,Havant,Havant,50.8519,-0.9821
+346,Hedge End,Hampshire,England,44.75428571428571,55.24571428571429,0.06857142857142857,Hedge End,Hedge End,50.9154,-1.3071
+347,Hythe,Hampshire,England,44.75428571428571,55.24571428571429,0.06857142857142857,Hythe,Hythe,51.0691,1.0842
+348,Hythe,Kent,England,43.56,56.440000000000005,0.06,Hythe,Hythe,51.0691,1.0842
+349,Lymington,Hampshire,England,44.75428571428571,55.24571428571429,0.06857142857142857,Lymington,Lymington,50.7584,-1.5427
+350,Lyndhurst,Hampshire,England,44.75428571428571,55.24571428571429,0.06857142857142857,Lyndhurst,Lyndhurst,50.8728,-1.5748
+351,New Alresford,Hampshire,England,44.75428571428571,55.24571428571429,0.06857142857142857,New Alresford,New Alresford,51.0896,-1.163
+352,New Milton,Hampshire,England,44.75428571428571,55.24571428571429,0.06857142857142857,New Milton,New Milton,50.7531,-1.6552
+353,Petersfield,Hampshire,England,44.75428571428571,55.24571428571429,0.06857142857142857,Petersfield,Petersfield,51.0025,-0.9392
+354,Portsmouth,Hampshire,England,44.75428571428571,55.24571428571429,0.06857142857142857,Portsmouth,Portsmouth,50.8037,-1.0756
+355,Ringwood,Hampshire,England,44.75428571428571,55.24571428571429,0.06857142857142857,Ringwood,Ringwood,50.8469,-1.7914
+356,Romsey,Hampshire,England,44.75428571428571,55.24571428571429,0.06857142857142857,Romsey,Romsey,50.9891,-1.4999
+357,Southampton,Hampshire,England,44.75428571428571,55.24571428571429,0.06857142857142857,Southampton,Southampton,50.9025,-1.4042
+358,Southwick,Hampshire,England,44.75428571428571,55.24571428571429,0.06857142857142857,Southwick,Southwick,50.8743,-1.1128
+359,Southwick,West Sussex,England,47.285,52.715,0.08,Southwick,Southwick,50.8743,-1.1128
+360,Tadley,Hampshire,England,44.75428571428571,55.24571428571429,0.06857142857142857,Tadley,Tadley,51.3528,-1.1401
+361,Totton,Hampshire,England,44.75428571428571,55.24571428571429,0.06857142857142857,Totton,Totton,50.9196,-1.4895
+362,Waterlooville,Hampshire,England,44.75428571428571,55.24571428571429,0.06857142857142857,Waterlooville,Waterlooville,50.8829,-1.0286
+363,Whitehill,Hampshire,England,44.75428571428571,55.24571428571429,0.06857142857142857,Whitehill,Whitehill,51.0979,-0.8636
+364,Wickham,Hampshire,England,44.75428571428571,55.24571428571429,0.06857142857142857,Wickham,Wickham,50.8994,-1.1863
+365,Winchester,Hampshire,England,44.75428571428571,55.24571428571429,0.06857142857142857,Winchester,Winchester,51.0613,-1.3132
+366,Yateley,Hampshire,England,44.75428571428571,55.24571428571429,0.06857142857142857,Yateley,Yateley,51.3403,-0.8284
+367,Baldock,Hertfordshire,England,46.6125,53.3875,0.0875,Baldock,Baldock,51.989,-0.1882
+368,Berkhamsted,Hertfordshire,England,46.6125,53.3875,0.0875,Berkhamsted,Berkhamsted,51.7607,-0.5653
+369,Bishop's Stortford,Hertfordshire,England,46.6125,53.3875,0.0875,Bishop's Stortford,Bishop's Stortford,51.8676,0.1632
+370,Broxbourne,Hertfordshire,England,46.6125,53.3875,0.0875,Broxbourne,Broxbourne,51.7466,-0.0191
+371,Buntingford,Hertfordshire,England,46.6125,53.3875,0.0875,Buntingford,Buntingford,51.9467,-0.0173
+372,Cheshunt,Hertfordshire,England,46.6125,53.3875,0.0875,Cheshunt,Cheshunt,51.7015,-0.0345
+373,Chorleywood,Hertfordshire,England,46.6125,53.3875,0.0875,Chorleywood,Chorleywood,51.6537,-0.5216
+374,Elstree,Hertfordshire,England,46.6125,53.3875,0.0875,Elstree,Elstree,51.6436,-0.2994
+375,Harpenden,Hertfordshire,England,46.6125,53.3875,0.0875,Harpenden,Harpenden,51.8215,-0.3516
+376,Hatfield,Hertfordshire,England,46.6125,53.3875,0.0875,Hatfield,Hatfield,53.5746,-1.0052
+377,Hatfield,South Yorkshire,England,35.9625,64.0375,0.055,Hatfield,Hatfield,53.5746,-1.0052
+378,Hemel Hempstead,Hertfordshire,England,46.6125,53.3875,0.0875,Hemel Hempstead,Hemel Hempstead,51.7492,-0.4751
+379,Hertford,Hertfordshire,England,46.6125,53.3875,0.0875,Hertford,Hertford,51.7957,-0.0785
+380,Hitchin,Hertfordshire,England,46.6125,53.3875,0.0875,Hitchin,Hitchin,51.9464,-0.2792
+381,Letchworth,Hertfordshire,England,46.6125,53.3875,0.0875,Letchworth,Letchworth,51.9767,-0.2305
+382,Sawbridgeworth,Hertfordshire,England,46.6125,53.3875,0.0875,Sawbridgeworth,Sawbridgeworth,51.8154,0.1486
+383,Stevenage,Hertfordshire,England,46.6125,53.3875,0.0875,Stevenage,Stevenage,51.9035,-0.2013
+384,Tring,Hertfordshire,England,46.6125,53.3875,0.0875,Tring,Tring,51.7945,-0.6571
+385,Ware,Hertfordshire,England,46.6125,53.3875,0.0875,Ware,Ware,51.8103,-0.0329
+386,Watford,Hertfordshire,England,46.6125,53.3875,0.0875,Watford,Watford,51.6554,-0.3957
+387,Brading,Isle of Wight,England,44.01,55.99,0.08,Brading,Brading,50.6812,-1.1422
+388,Cowes,Isle of Wight,England,44.01,55.99,0.08,Cowes,Cowes,50.7633,-1.2985
+389,East Cowes,Isle of Wight,England,44.01,55.99,0.08,East Cowes,East Cowes,50.7595,-1.2852
+390,Ryde,Isle of Wight,England,44.01,55.99,0.08,Ryde,Ryde,50.73,-1.1611
+391,Sandown,Isle of Wight,England,44.01,55.99,0.08,Sandown,Sandown,50.6531,-1.1536
+392,Shanklin,Isle of Wight,England,44.01,55.99,0.08,Shanklin,Shanklin,50.6288,-1.1779
+393,Ventnor,Isle of Wight,England,44.01,55.99,0.08,Ventnor,Ventnor,50.5942,-1.2003
+394,Yarmouth,Isle of Wight,England,44.01,55.99,0.08,Yarmouth,Yarmouth,50.7054,-1.4984
+395,Ashford,Kent,England,43.56,56.440000000000005,0.06,Ashford,Ashford,51.0983,-4.0946
+396,Ashford,Surrey,England,56.93333333333333,43.06666666666667,0.08,Ashford,Ashford,51.0983,-4.0946
+397,Broadstairs,Kent,England,43.56,56.440000000000005,0.06,Broadstairs,Broadstairs,51.3584,1.4374
+398,Canterbury,Kent,England,43.56,56.440000000000005,0.06,Canterbury,Canterbury,51.28,1.0803
+399,Chatham,Kent,England,43.56,56.440000000000005,0.06,Chatham,Chatham,51.3789,0.5279
+400,Cranbrook,Kent,England,43.56,56.440000000000005,0.06,Cranbrook,Cranbrook,51.0965,0.5321
+401,Dartford,Kent,England,43.56,56.440000000000005,0.06,Dartford,Dartford,51.4493,0.2135
+402,Deal,Kent,England,43.56,56.440000000000005,0.06,Deal,Deal,51.218999999999994,1.3825
+403,Dover,Kent,England,43.56,56.440000000000005,0.06,Dover,Dover,51.13,1.3083
+404,Edenbridge,Kent,England,43.56,56.440000000000005,0.06,Edenbridge,Edenbridge,51.1958,0.0639
+405,Faversham,Kent,England,43.56,56.440000000000005,0.06,Faversham,Faversham,51.3144,0.8912
+406,Folkestone,Kent,England,43.56,56.440000000000005,0.06,Folkestone,Folkestone,51.0887,1.1664
+407,Fordwich,Kent,England,43.56,56.440000000000005,0.06,Fordwich,Fordwich,51.2954,1.1256
+408,Greenhill,Kent,England,43.56,56.440000000000005,0.06,Greenhill,Greenhill,55.99,-3.89
+409,Lydd,Kent,England,43.56,56.440000000000005,0.06,Lydd,Lydd,50.9516,0.9075
+410,Maidstone,Kent,England,43.56,56.440000000000005,0.06,Maidstone,Maidstone,51.2748,0.5232
+411,Margate,Kent,England,43.56,56.440000000000005,0.06,Margate,Margate,51.3869,1.3791
+412,New Romney,Kent,England,43.56,56.440000000000005,0.06,New Romney,New Romney,50.9851,0.9427
+413,Paddock Wood,Kent,England,43.56,56.440000000000005,0.06,Paddock Wood,Paddock Wood,51.181000000000004,0.389
+414,Queenborough,Kent,England,43.56,56.440000000000005,0.06,Queenborough,Queenborough,51.4157,0.7457
+415,Ramsgate,Kent,England,43.56,56.440000000000005,0.06,Ramsgate,Ramsgate,51.3345,1.4227
+416,Rochester,Kent,England,43.56,56.440000000000005,0.06,Rochester,Rochester,51.3891,0.5049
+417,Sandwich,Kent,England,43.56,56.440000000000005,0.06,Sandwich,Sandwich,51.2753,1.3408
+418,Sevenoaks,Kent,England,43.56,56.440000000000005,0.06,Sevenoaks,Sevenoaks,51.272,0.1914
+419,Snodland,Kent,England,43.56,56.440000000000005,0.06,Snodland,Snodland,51.3296,0.4426
+420,Southborough,Kent,England,43.56,56.440000000000005,0.06,Southborough,Southborough,51.1585,0.2585
+421,Strood,Kent,England,43.56,56.440000000000005,0.06,Strood,Strood,51.3959,0.4951
+422,Swanley,Kent,England,43.56,56.440000000000005,0.06,Swanley,Swanley,51.3957,0.1777
+423,Tenterden,Kent,England,43.56,56.440000000000005,0.06,Tenterden,Tenterden,51.0701,0.6888
+424,Tonbridge,Kent,England,43.56,56.440000000000005,0.06,Tonbridge,Tonbridge,51.18899999999999,0.2736
+425,Tunbridge Wells,Kent,England,43.56,56.440000000000005,0.06,Tunbridge Wells,Tunbridge Wells,51.1324,0.2633
+426,West Malling,Kent,England,43.56,56.440000000000005,0.06,West Malling,West Malling,51.2954,0.4095
+427,Westerham,Kent,England,43.56,56.440000000000005,0.06,Westerham,Westerham,51.2671,0.0706
+428,Westgate on Sea,Kent,England,43.56,56.440000000000005,0.06,Westgate on Sea,Westgate on Sea,51.3806,1.3352
+429,Adlington,Lancashire,England,40.942,59.05799999999999,0.07200000000000001,Adlington,Adlington,53.6163,-2.6
+430,Barnoldswick,Lancashire,England,40.942,59.05799999999999,0.07200000000000001,Barnoldswick,Barnoldswick,53.9171,-2.1873
+431,Blackpool,Lancashire,England,40.942,59.05799999999999,0.07200000000000001,Blackpool,Blackpool,53.8032,-3.0429
+432,Brierfield,Lancashire,England,40.942,59.05799999999999,0.07200000000000001,Brierfield,Brierfield,53.8253,-2.233
+433,Burnley,Lancashire,England,40.942,59.05799999999999,0.07200000000000001,Burnley,Burnley,53.7907,-2.2439
+434,Carnforth,Lancashire,England,40.942,59.05799999999999,0.07200000000000001,Carnforth,Carnforth,54.1282,-2.7701
+435,Clitheroe,Lancashire,England,40.942,59.05799999999999,0.07200000000000001,Clitheroe,Clitheroe,53.8717,-2.3927
+436,Darwen,Lancashire,England,40.942,59.05799999999999,0.07200000000000001,Darwen,Darwen,53.6961,-2.4665
+437,Fleetwood,Lancashire,England,40.942,59.05799999999999,0.07200000000000001,Fleetwood,Fleetwood,53.9246,-3.0076
+438,Garstang,Lancashire,England,40.942,59.05799999999999,0.07200000000000001,Garstang,Garstang,53.9016,-2.7735
+439,Kirkham,Lancashire,England,40.942,59.05799999999999,0.07200000000000001,Kirkham,Kirkham,53.7827,-2.8715
+440,Lancaster,Lancashire,England,40.942,59.05799999999999,0.07200000000000001,Lancaster,Lancaster,54.0484,-2.799
+441,Medlar with Wesham,Lancashire,England,40.942,59.05799999999999,0.07200000000000001,Medlar with Wesham,Medlar with Wesham,53.79,-2.89
+442,Morecambe,Lancashire,England,40.942,59.05799999999999,0.07200000000000001,Morecambe,Morecambe,54.0682,-2.8748
+443,Padiham,Lancashire,England,40.942,59.05799999999999,0.07200000000000001,Padiham,Padiham,53.7981,-2.3107
+444,Penwortham,Lancashire,England,40.942,59.05799999999999,0.07200000000000001,Penwortham,Penwortham,53.7511,-2.7323
+445,Preesall,Lancashire,England,40.942,59.05799999999999,0.07200000000000001,Preesall,Preesall,53.9184,-2.9656
+446,Preston,Lancashire,England,40.942,59.05799999999999,0.07200000000000001,Preston,Preston,53.75899999999999,-2.7052
+447,Thornton,Lancashire,England,40.942,59.05799999999999,0.07200000000000001,Thornton,Thornton,56.1663,-3.1460000000000004
+448,Whitworth,Lancashire,England,40.942,59.05799999999999,0.07200000000000001,Whitworth,Whitworth,53.6644,-2.1734
+449,Ashby de la Zouch,Leicestershire,England,51.08,48.92,0.24,Ashby de la Zouch,Ashby de la Zouch,52.7544,-1.4806
+450,Ashby Woulds,Leicestershire,England,51.08,48.92,0.24,Ashby Woulds,Ashby Woulds,52.7454,-1.5349
+451,Earl Shilton,Leicestershire,England,51.08,48.92,0.24,Earl Shilton,Earl Shilton,52.5788,-1.3078
+452,Hinckley,Leicestershire,England,51.08,48.92,0.24,Hinckley,Hinckley,52.5411,-1.3729
+453,Leicester,Leicestershire,England,51.08,48.92,0.24,Leicester,Leicester,52.6368,-1.1312
+454,Loughborough,Leicestershire,England,51.08,48.92,0.24,Loughborough,Loughborough,52.7686,-1.2236
+455,Lutterworth,Leicestershire,England,51.08,48.92,0.24,Lutterworth,Lutterworth,52.4552,-1.1998
+456,Market Bosworth,Leicestershire,England,51.08,48.92,0.24,Market Bosworth,Market Bosworth,52.6239,-1.4009
+457,Oadby,Leicestershire,England,51.08,48.92,0.24,Oadby,Oadby,52.5983,-1.081
+458,Shepshed,Leicestershire,England,51.08,48.92,0.24,Shepshed,Shepshed,52.7726,-1.291
+459,Syston,Leicestershire,England,51.08,48.92,0.24,Syston,Syston,52.6992,-1.073
+460,Barton upon Humber,Lincolnshire,England,33.75,66.25,0.06,Barton upon Humber,Barton upon Humber,53.6858,-0.4395
+461,Boston,Lincolnshire,England,33.75,66.25,0.06,Boston,Boston,52.977,-0.024
+462,Bottesford,Lincolnshire,England,33.75,66.25,0.06,Bottesford,Bottesford,53.5534,-0.6469
+463,Bourne,Lincolnshire,England,33.75,66.25,0.06,Bourne,Bourne,52.7682,-0.3771
+464,Brigg,Lincolnshire,England,33.75,66.25,0.06,Brigg,Brigg,53.5525,-0.4896
+465,Broughton,Lincolnshire,England,33.75,66.25,0.06,Broughton,Broughton,53.0667,-3.0321
+466,Burgh le Marsh,Lincolnshire,England,33.75,66.25,0.06,Burgh le Marsh,Burgh le Marsh,53.1598,0.2449
+467,Caistor,Lincolnshire,England,33.75,66.25,0.06,Caistor,Caistor,53.4959,-0.3133
+468,Coningsby,Lincolnshire,England,33.75,66.25,0.06,Coningsby,Coningsby,53.1056,-0.1747
+469,Crowland,Lincolnshire,England,33.75,66.25,0.06,Crowland,Crowland,52.6753,-0.1686
+470,Crowle,Lincolnshire,England,33.75,66.25,0.06,Crowle,Crowle,53.6078,-0.8326
+471,Epworth,Lincolnshire,England,33.75,66.25,0.06,Epworth,Epworth,53.5243,-0.8215
+472,Gainsborough,Lincolnshire,England,33.75,66.25,0.06,Gainsborough,Gainsborough,53.3969,-0.774
+473,Holbeach,Lincolnshire,England,33.75,66.25,0.06,Holbeach,Holbeach,52.8042,0.018000000000000002
+474,Horncastle,Lincolnshire,England,33.75,66.25,0.06,Horncastle,Horncastle,53.2074,-0.1213
+475,Immingham,Lincolnshire,England,33.75,66.25,0.06,Immingham,Immingham,53.61600000000001,-0.2135
+476,Kirton in Lindsey,Lincolnshire,England,33.75,66.25,0.06,Kirton in Lindsey,Kirton in Lindsey,53.4763,-0.591
+477,Lincoln,Lincolnshire,England,33.75,66.25,0.06,Lincoln,Lincoln,53.2336,-0.5392
+478,Long Sutton,Lincolnshire,England,33.75,66.25,0.06,Long Sutton,Long Sutton,51.0244,-2.7589
+479,Louth,Lincolnshire,England,33.75,66.25,0.06,Louth,Louth,53.3675,-0.0022
+480,Mablethorpe,Lincolnshire,England,33.75,66.25,0.06,Mablethorpe,Mablethorpe,53.3408,0.2607
+481,Market Deeping,Lincolnshire,England,33.75,66.25,0.06,Market Deeping,Market Deeping,52.6769,-0.315
+482,Market Rasen,Lincolnshire,England,33.75,66.25,0.06,Market Rasen,Market Rasen,53.3874,-0.3367
+483,North Hykeham,Lincolnshire,England,33.75,66.25,0.06,North Hykeham,North Hykeham,53.187,-0.5878
+484,Scunthorpe,Lincolnshire,England,33.75,66.25,0.06,Scunthorpe,Scunthorpe,53.5918,-0.6499
+485,Skegness,Lincolnshire,England,33.75,66.25,0.06,Skegness,Skegness,53.1438,0.3429
+486,Sleaford,Lincolnshire,England,33.75,66.25,0.06,Sleaford,Sleaford,52.9984,-0.4095
+487,Spilsby,Lincolnshire,England,33.75,66.25,0.06,Spilsby,Spilsby,53.1741,0.0957
+488,Stamford,Lincolnshire,England,33.75,66.25,0.06,Stamford,Stamford,52.6521,-0.4804
+489,Winterton,Lincolnshire,England,33.75,66.25,0.06,Winterton,Winterton,53.6555,-0.5991
+490,Wragby,Lincolnshire,England,33.75,66.25,0.06,Wragby,Wragby,53.287,-0.3036
+491,Bebington,Merseyside,England,58.19,41.81,0.09,Bebington,Bebington,53.35,-3.0167
+492,Birkenhead,Merseyside,England,58.19,41.81,0.09,Birkenhead,Birkenhead,53.3944,-3.0192
+493,Bromborough,Merseyside,England,58.19,41.81,0.09,Bromborough,Bromborough,53.3334,-2.9775
+494,Formby,Merseyside,England,58.19,41.81,0.09,Formby,Formby,53.5563,-3.0657
+495,Halewood,Merseyside,England,58.19,41.81,0.09,Halewood,Halewood,53.3681,-2.8186
+496,Heswall,Merseyside,England,58.19,41.81,0.09,Heswall,Heswall,53.3283,-3.1002
+497,Hoylake,Merseyside,England,58.19,41.81,0.09,Hoylake,Hoylake,53.3905,-3.1807
+498,Huyton,Merseyside,England,58.19,41.81,0.09,Huyton,Huyton,53.4144,-2.838
+499,Kirkby,Merseyside,England,58.19,41.81,0.09,Kirkby,Kirkby,54.4459,-1.17
+500,Liverpool,Merseyside,England,58.19,41.81,0.09,Liverpool,Liverpool,53.4055,-2.9805
+501,Maghull,Merseyside,England,58.19,41.81,0.09,Maghull,Maghull,53.5176,-2.9443
+502,Newton le Willows,Merseyside,England,58.19,41.81,0.09,Newton le Willows,Newton le Willows,54.2969,-1.6764
+503,Prescot,Merseyside,England,58.19,41.81,0.09,Prescot,Prescot,53.4276,-2.8042
+504,Rainford,Merseyside,England,58.19,41.81,0.09,Rainford,Rainford,53.5021,-2.7879
+505,Rainhill,Merseyside,England,58.19,41.81,0.09,Rainhill,Rainhill,53.4134,-2.7608
+506,Southport,Merseyside,England,58.19,41.81,0.09,Southport,Southport,53.6476,-3.0042
+507,St Helens,Merseyside,England,58.19,41.81,0.09,St Helens,St Helens,53.4535,-2.7273
+508,Wallasey,Merseyside,England,58.19,41.81,0.09,Wallasey,Wallasey,53.4241,-3.0394
+509,Whiston,Merseyside,England,58.19,41.81,0.09,Whiston,Whiston,53.419,-2.7856
+510,Acle,Norfolk,England,42.370000000000005,57.629999999999995,0.07,Acle,Acle,52.6368,1.5476
+511,Attleborough,Norfolk,England,42.370000000000005,57.629999999999995,0.07,Attleborough,Attleborough,52.518,1.0106
+512,Aylsham,Norfolk,England,42.370000000000005,57.629999999999995,0.07,Aylsham,Aylsham,52.7914,1.2522
+513,Caister on Sea,Norfolk,England,42.370000000000005,57.629999999999995,0.07,Caister on Sea,Caister on Sea,52.6481,1.7265
+514,Cromer,Norfolk,England,42.370000000000005,57.629999999999995,0.07,Cromer,Cromer,52.9311,1.3013
+515,Dereham,Norfolk,England,42.370000000000005,57.629999999999995,0.07,Dereham,Dereham,52.6802,0.9386
+516,Diss,Norfolk,England,42.370000000000005,57.629999999999995,0.07,Diss,Diss,52.3767,1.109
+517,Downham Market,Norfolk,England,42.370000000000005,57.629999999999995,0.07,Downham Market,Downham Market,52.6025,0.3773
+518,Fakenham,Norfolk,England,42.370000000000005,57.629999999999995,0.07,Fakenham,Fakenham,52.836999999999996,0.8489
+519,Great Yarmouth,Norfolk,England,42.370000000000005,57.629999999999995,0.07,Great Yarmouth,Great Yarmouth,52.6072,1.7311
+520,Hingham,Norfolk,England,42.370000000000005,57.629999999999995,0.07,Hingham,Hingham,52.5796,0.9867
+521,Hunstanton,Norfolk,England,42.370000000000005,57.629999999999995,0.07,Hunstanton,Hunstanton,52.9394,0.4902
+522,King's Lynn,Norfolk,England,42.370000000000005,57.629999999999995,0.07,King's Lynn,King's Lynn,52.7549,0.3965
+523,Loddon,Norfolk,England,42.370000000000005,57.629999999999995,0.07,Loddon,Loddon,52.5348,1.4819
+524,North Walsham,Norfolk,England,42.370000000000005,57.629999999999995,0.07,North Walsham,North Walsham,52.8194,1.3874
+525,Norwich,Norfolk,England,42.370000000000005,57.629999999999995,0.07,Norwich,Norwich,52.6286,1.2923
+526,Rackheath,Norfolk,England,42.370000000000005,57.629999999999995,0.07,Rackheath,Rackheath,52.674,1.3736
+527,Redenhall with Harleston,Norfolk,England,42.370000000000005,57.629999999999995,0.07,Redenhall with Harleston,Redenhall with Harleston,52.4207,1.3097
+528,Reepham,Norfolk,England,42.370000000000005,57.629999999999995,0.07,Reepham,Reepham,52.7635,1.1115
+529,Sheringham,Norfolk,England,42.370000000000005,57.629999999999995,0.07,Sheringham,Sheringham,52.9439,1.2126
+530,Stalham,Norfolk,England,42.370000000000005,57.629999999999995,0.07,Stalham,Stalham,52.7729,1.5147
+531,Swaffham,Norfolk,England,42.370000000000005,57.629999999999995,0.07,Swaffham,Swaffham,52.6481,0.6909
+532,Thetford,Norfolk,England,42.370000000000005,57.629999999999995,0.07,Thetford,Thetford,52.4156,0.7487
+533,Thorpe St Andrew,Norfolk,England,42.370000000000005,57.629999999999995,0.07,Thorpe St Andrew,Thorpe St Andrew,52.6333,1.35
+534,Wells next the Sea,Norfolk,England,42.370000000000005,57.629999999999995,0.07,Wells next the Sea,Wells next the Sea,52.955,0.8515
+535,Wroxham,Norfolk,England,42.370000000000005,57.629999999999995,0.07,Wroxham,Wroxham,52.7078,1.4043
+536,Bedale,North Yorkshire,England,44.474,55.525999999999996,0.062,Bedale,Bedale,54.2886,-1.5927
+537,Bentham,North Yorkshire,England,44.474,55.525999999999996,0.062,Bentham,Bentham,54.1094,-2.5057
+538,Boroughbridge,North Yorkshire,England,44.474,55.525999999999996,0.062,Boroughbridge,Boroughbridge,54.0963,-1.3943
+539,Colburn,North Yorkshire,England,44.474,55.525999999999996,0.062,Colburn,Colburn,54.3877,-1.6980000000000002
+540,Easingwold,North Yorkshire,England,44.474,55.525999999999996,0.062,Easingwold,Easingwold,54.1215,-1.1945
+541,Filey,North Yorkshire,England,44.474,55.525999999999996,0.062,Filey,Filey,54.2103,-0.2918
+542,Grassington,North Yorkshire,England,44.474,55.525999999999996,0.062,Grassington,Grassington,54.073,-1.9978
+543,Guisborough,North Yorkshire,England,44.474,55.525999999999996,0.062,Guisborough,Guisborough,54.536,-1.0511
+544,Harrogate,North Yorkshire,England,44.474,55.525999999999996,0.062,Harrogate,Harrogate,53.9921,-1.5391
+545,Hawes,North Yorkshire,England,44.474,55.525999999999996,0.062,Hawes,Hawes,54.305,-2.1999
+546,Haxby,North Yorkshire,England,44.474,55.525999999999996,0.062,Haxby,Haxby,54.0175,-1.0731
+547,Helmsley,North Yorkshire,England,44.474,55.525999999999996,0.062,Helmsley,Helmsley,54.2458,-1.0584
+548,Ingleby Barwick,North Yorkshire,England,44.474,55.525999999999996,0.062,Ingleby Barwick,Ingleby Barwick,54.5192,-1.3181
+549,Kirkbymoorside,North Yorkshire,England,44.474,55.525999999999996,0.062,Kirkbymoorside,Kirkbymoorside,54.2707,-0.9324
+550,Knaresborough,North Yorkshire,England,44.474,55.525999999999996,0.062,Knaresborough,Knaresborough,54.01,-1.4622
+551,Leyburn,North Yorkshire,England,44.474,55.525999999999996,0.062,Leyburn,Leyburn,54.3106,-1.827
+552,Loftus,North Yorkshire,England,44.474,55.525999999999996,0.062,Loftus,Loftus,54.5537,-0.8853
+553,Malton,North Yorkshire,England,44.474,55.525999999999996,0.062,Malton,Malton,54.1349,-0.7966
+554,Masham,North Yorkshire,England,44.474,55.525999999999996,0.062,Masham,Masham,54.2227,-1.6574
+555,Middleham,North Yorkshire,England,44.474,55.525999999999996,0.062,Middleham,Middleham,54.2867,-1.8049
+556,Middlesbrough,North Yorkshire,England,44.474,55.525999999999996,0.062,Middlesbrough,Middlesbrough,54.576,-1.2344
+557,Northallerton,North Yorkshire,England,44.474,55.525999999999996,0.062,Northallerton,Northallerton,54.3405,-1.4345
+558,Norton on Derwent,North Yorkshire,England,44.474,55.525999999999996,0.062,Norton on Derwent,Norton on Derwent,54.1311,-0.7838
+559,Pickering,North Yorkshire,England,44.474,55.525999999999996,0.062,Pickering,Pickering,54.2466,-0.7761
+560,Redcar,North Yorkshire,England,44.474,55.525999999999996,0.062,Redcar,Redcar,54.6179,-1.0688
+561,Ripon,North Yorkshire,England,44.474,55.525999999999996,0.062,Ripon,Ripon,54.1369,-1.5213
+562,Scarborough,North Yorkshire,England,44.474,55.525999999999996,0.062,Scarborough,Scarborough,54.2848,-0.409
+563,Selby,North Yorkshire,England,44.474,55.525999999999996,0.062,Selby,Selby,53.784,-1.0688
+564,Settle,North Yorkshire,England,44.474,55.525999999999996,0.062,Settle,Settle,54.0695,-2.2761
+565,Sherburn in Elmet,North Yorkshire,England,44.474,55.525999999999996,0.062,Sherburn in Elmet,Sherburn in Elmet,53.7966,-1.2499
+566,Skipton,North Yorkshire,England,44.474,55.525999999999996,0.062,Skipton,Skipton,53.9618,-2.016
+567,Stokesley,North Yorkshire,England,44.474,55.525999999999996,0.062,Stokesley,Stokesley,54.4703,-1.1908
+568,Tadcaster,North Yorkshire,England,44.474,55.525999999999996,0.062,Tadcaster,Tadcaster,53.8848,-1.262
+569,Thirsk,North Yorkshire,England,44.474,55.525999999999996,0.062,Thirsk,Thirsk,54.233000000000004,-1.3428
+570,Whitby,North Yorkshire,England,44.474,55.525999999999996,0.062,Whitby,Whitby,53.2735,-2.905
+571,Yarm,North Yorkshire,England,44.474,55.525999999999996,0.062,Yarm,Yarm,54.5091,-1.3543
+572,York,North Yorkshire,England,44.474,55.525999999999996,0.062,York,York,53.9591,-1.0815
+573,Brackley,Northamptonshire,England,39.072,60.928,0.074,Brackley,Brackley,52.0298,-1.1485
+574,Burton Latimer,Northamptonshire,England,39.072,60.928,0.074,Burton Latimer,Burton Latimer,52.3639,-0.6777
+575,Corby,Northamptonshire,England,39.072,60.928,0.074,Corby,Corby,52.4876,-0.7015
+576,Daventry,Northamptonshire,England,39.072,60.928,0.074,Daventry,Daventry,52.2574,-1.1640000000000001
+577,Desborough,Northamptonshire,England,39.072,60.928,0.074,Desborough,Desborough,52.4414,-0.8125
+578,Higham Ferrers,Northamptonshire,England,39.072,60.928,0.074,Higham Ferrers,Higham Ferrers,52.306000000000004,-0.5923
+579,Irthlingborough,Northamptonshire,England,39.072,60.928,0.074,Irthlingborough,Irthlingborough,52.3263,-0.6168
+580,Kettering,Northamptonshire,England,39.072,60.928,0.074,Kettering,Kettering,52.3994,-0.728
+581,Northampton,Northamptonshire,England,39.072,60.928,0.074,Northampton,Northampton,52.2385,-0.9025
+582,Oundle,Northamptonshire,England,39.072,60.928,0.074,Oundle,Oundle,52.4809,-0.4675
+583,Raunds,Northamptonshire,England,39.072,60.928,0.074,Raunds,Raunds,52.3422,-0.5345
+584,Rothwell,Northamptonshire,England,39.072,60.928,0.074,Rothwell,Rothwell,52.4225,-0.7987
+585,Rothwell,West Yorkshire,England,43.24000000000001,56.75999999999999,0.08333333333333333,Rothwell,Rothwell,52.4225,-0.7987
+586,Rushden,Northamptonshire,England,39.072,60.928,0.074,Rushden,Rushden,52.2912,-0.5988
+587,Thrapston,Northamptonshire,England,39.072,60.928,0.074,Thrapston,Thrapston,52.3974,-0.5399
+588,Towcester,Northamptonshire,England,39.072,60.928,0.074,Towcester,Towcester,52.1346,-1.0027
+589,Wellingborough,Northamptonshire,England,39.072,60.928,0.074,Wellingborough,Wellingborough,52.2984,-0.6911
+590,Beeston,Nottinghamshire,England,39.15,60.85,0.08,Beeston,Beeston,53.1233,-2.6862
+591,Bingham,Nottinghamshire,England,39.15,60.85,0.08,Bingham,Bingham,52.9515,-0.953
+592,Carlton,Nottinghamshire,England,39.15,60.85,0.08,Carlton,Carlton,52.1904,-0.6049
+593,Cotgrave,Nottinghamshire,England,39.15,60.85,0.08,Cotgrave,Cotgrave,52.9109,-1.0375
+594,Kimberley,Nottinghamshire,England,39.15,60.85,0.08,Kimberley,Kimberley,52.9979,-1.2590000000000001
+595,Mansfield,Nottinghamshire,England,39.15,60.85,0.08,Mansfield,Mansfield,53.1448,-1.1973
+596,Nottingham,Nottinghamshire,England,39.15,60.85,0.08,Nottingham,Nottingham,52.955,-1.1511
+597,Ollerton,Nottinghamshire,England,39.15,60.85,0.08,Ollerton,Ollerton,53.2871,-2.3361
+598,Southwell,Nottinghamshire,England,39.15,60.85,0.08,Southwell,Southwell,53.0775,-0.9549
+599,Stapleford,Nottinghamshire,England,39.15,60.85,0.08,Stapleford,Stapleford,52.1459,0.1505
+600,Warsop,Nottinghamshire,England,39.15,60.85,0.08,Warsop,Warsop,53.2042,-1.1529
+601,Banbury,Oxfordshire,England,70.27,29.73,0.11,Banbury,Banbury,52.0604,-1.34
+602,Bicester,Oxfordshire,England,70.27,29.73,0.11,Bicester,Bicester,51.8989,-1.1518
+603,Burford,Oxfordshire,England,70.27,29.73,0.11,Burford,Burford,51.8083,-1.6361
+604,Carterton,Oxfordshire,England,70.27,29.73,0.11,Carterton,Carterton,51.7593,-1.5945
+605,Charlbury,Oxfordshire,England,70.27,29.73,0.11,Charlbury,Charlbury,51.8727,-1.4824
+606,Chipping Norton,Oxfordshire,England,70.27,29.73,0.11,Chipping Norton,Chipping Norton,51.9418,-1.5455
+607,Didcot,Oxfordshire,England,70.27,29.73,0.11,Didcot,Didcot,51.6057,-1.2468
+608,Henley on Thames,Oxfordshire,England,70.27,29.73,0.11,Henley on Thames,Henley on Thames,51.5376,-0.905
+609,Oxford,Oxfordshire,England,70.27,29.73,0.11,Oxford,Oxford,51.7522,-1.2583
+610,Thame,Oxfordshire,England,70.27,29.73,0.11,Thame,Thame,51.7483,-0.9782
+611,Wallingford,Oxfordshire,England,70.27,29.73,0.11,Wallingford,Wallingford,51.5982,-1.1252
+612,Wantage,Oxfordshire,England,70.27,29.73,0.11,Wantage,Wantage,51.5878,-1.4249
+613,Watlington,Oxfordshire,England,70.27,29.73,0.11,Watlington,Watlington,51.6452,-1.0043
+614,Witney,Oxfordshire,England,70.27,29.73,0.11,Witney,Witney,51.7855,-1.4866
+615,Woodstock,Oxfordshire,England,70.27,29.73,0.11,Woodstock,Woodstock,51.8475,-1.3545
+616,Bishop's Castle,Shropshire,England,44.01,55.99,0.08,Bishop's Castle,Bishop's Castle,52.4934,-2.9976
+617,Bridgnorth,Shropshire,England,44.01,55.99,0.08,Bridgnorth,Bridgnorth,52.5346,-2.4194
+618,Broseley,Shropshire,England,44.01,55.99,0.08,Broseley,Broseley,52.6134,-2.4827
+619,Church Stretton,Shropshire,England,44.01,55.99,0.08,Church Stretton,Church Stretton,52.5391,-2.8078
+620,Cleobury Mortimer,Shropshire,England,44.01,55.99,0.08,Cleobury Mortimer,Cleobury Mortimer,52.379,-2.4814
+621,Craven Arms,Shropshire,England,44.01,55.99,0.08,Craven Arms,Craven Arms,52.4399,-2.8351
+622,Ludlow,Shropshire,England,44.01,55.99,0.08,Ludlow,Ludlow,52.368,-2.7193
+623,Madeley,Shropshire,England,44.01,55.99,0.08,Madeley,Madeley,52.9998,-2.3378
+624,Market Drayton,Shropshire,England,44.01,55.99,0.08,Market Drayton,Market Drayton,52.9042,-2.4839
+625,Much Wenlock,Shropshire,England,44.01,55.99,0.08,Much Wenlock,Much Wenlock,52.5957,-2.5582
+626,Oakengates,Shropshire,England,44.01,55.99,0.08,Oakengates,Oakengates,52.6952,-2.4521
+627,Oswestry,Shropshire,England,44.01,55.99,0.08,Oswestry,Oswestry,52.8603,-3.0548
+628,Shifnal,Shropshire,England,44.01,55.99,0.08,Shifnal,Shifnal,52.6676,-2.373
+629,Shrewsbury,Shropshire,England,44.01,55.99,0.08,Shrewsbury,Shrewsbury,52.7079,-2.7539999999999996
+630,Wellington,Shropshire,England,44.01,55.99,0.08,Wellington,Wellington,50.9784,-3.2276
+631,Askern,South Yorkshire,England,35.9625,64.0375,0.055,Askern,Askern,53.6168,-1.1532
+632,Bawtry,South Yorkshire,England,35.9625,64.0375,0.055,Bawtry,Bawtry,53.4312,-1.0207
+633,Conisbrough,South Yorkshire,England,35.9625,64.0375,0.055,Conisbrough,Conisbrough,53.481,-1.2327
+634,Doncaster,South Yorkshire,England,35.9625,64.0375,0.055,Doncaster,Doncaster,53.5228,-1.1335
+635,Edlington,South Yorkshire,England,35.9625,64.0375,0.055,Edlington,Edlington,53.4734,-1.1829
+636,Maltby,South Yorkshire,England,35.9625,64.0375,0.055,Maltby,Maltby,53.4264,-1.207
+637,Mexborough,South Yorkshire,England,35.9625,64.0375,0.055,Mexborough,Mexborough,53.4939,-1.2837
+638,Penistone,South Yorkshire,England,35.9625,64.0375,0.055,Penistone,Penistone,53.5247,-1.6294
+639,Rotherham,South Yorkshire,England,35.9625,64.0375,0.055,Rotherham,Rotherham,53.431000000000004,-1.3555
+640,Sheffield,South Yorkshire,England,35.9625,64.0375,0.055,Sheffield,Sheffield,53.3807,-1.4702
+641,Stocksbridge,South Yorkshire,England,35.9625,64.0375,0.055,Stocksbridge,Stocksbridge,53.4844,-1.5893
+642,Thorne,South Yorkshire,England,35.9625,64.0375,0.055,Thorne,Thorne,53.6107,-0.9641
+643,Tickhill,South Yorkshire,England,35.9625,64.0375,0.055,Tickhill,Tickhill,53.4348,-1.1095
+644,Wombwell,South Yorkshire,England,35.9625,64.0375,0.055,Wombwell,Wombwell,53.521,-1.4033
+645,Biddulph,Staffordshire,England,39.24333333333333,60.75666666666667,0.056666666666666664,Biddulph,Biddulph,53.1165,-2.1731
+646,Burntwood,Staffordshire,England,39.24333333333333,60.75666666666667,0.056666666666666664,Burntwood,Burntwood,52.6792,-1.9155
+647,Eccleshall,Staffordshire,England,39.24333333333333,60.75666666666667,0.056666666666666664,Eccleshall,Eccleshall,52.8581,-2.2511
+648,Fazeley,Staffordshire,England,39.24333333333333,60.75666666666667,0.056666666666666664,Fazeley,Fazeley,52.6149,-1.6995
+649,Fenton,Staffordshire,England,39.24333333333333,60.75666666666667,0.056666666666666664,Fenton,Fenton,53.0473,-0.6890000000000001
+650,Hednesford,Staffordshire,England,39.24333333333333,60.75666666666667,0.056666666666666664,Hednesford,Hednesford,52.7114,-2.0025
+651,Kidsgrove,Staffordshire,England,39.24333333333333,60.75666666666667,0.056666666666666664,Kidsgrove,Kidsgrove,53.0878,-2.2385
+652,Leek,Staffordshire,England,39.24333333333333,60.75666666666667,0.056666666666666664,Leek,Leek,53.1058,-2.0243
+653,Lichfield,Staffordshire,England,39.24333333333333,60.75666666666667,0.056666666666666664,Lichfield,Lichfield,52.6844,-1.8275
+654,Longton,Staffordshire,England,39.24333333333333,60.75666666666667,0.056666666666666664,Longton,Longton,53.723,-2.7946
+655,Newcastle under Lyme,Staffordshire,England,39.24333333333333,60.75666666666667,0.056666666666666664,Newcastle under Lyme,Newcastle under Lyme,53.0088,-2.2332
+656,Penkridge,Staffordshire,England,39.24333333333333,60.75666666666667,0.056666666666666664,Penkridge,Penkridge,52.7246,-2.1143
+657,Rugeley,Staffordshire,England,39.24333333333333,60.75666666666667,0.056666666666666664,Rugeley,Rugeley,52.7589,-1.9362
+658,Stafford,Staffordshire,England,39.24333333333333,60.75666666666667,0.056666666666666664,Stafford,Stafford,52.8063,-2.1164
+659,Stoke on Trent,Staffordshire,England,39.24333333333333,60.75666666666667,0.056666666666666664,Stoke on Trent,Stoke on Trent,53.0162,-2.1813
+660,Tamworth,Staffordshire,England,39.24333333333333,60.75666666666667,0.056666666666666664,Tamworth,Tamworth,52.6346,-1.6948
+661,Uttoxeter,Staffordshire,England,39.24333333333333,60.75666666666667,0.056666666666666664,Uttoxeter,Uttoxeter,52.898,-1.8649
+662,Aldeburgh,Suffolk,England,41.74,58.26,0.07,Aldeburgh,Aldeburgh,52.1524,1.6015
+663,Beccles,Suffolk,England,41.74,58.26,0.07,Beccles,Beccles,52.4584,1.5623
+664,Brandon,Suffolk,England,41.74,58.26,0.07,Brandon,Brandon,52.3841,-1.3993
+665,Bungay,Suffolk,England,41.74,58.26,0.07,Bungay,Bungay,52.4571,1.4358
+666,Bury St Edmunds,Suffolk,England,41.74,58.26,0.07,Bury St Edmunds,Bury St Edmunds,52.2468,0.7182
+667,Carlton Colville,Suffolk,England,41.74,58.26,0.07,Carlton Colville,Carlton Colville,52.4504,1.6906
+668,Clare,Suffolk,England,41.74,58.26,0.07,Clare,Clare,52.0802,0.583
+669,Dunwich,Suffolk,England,41.74,58.26,0.07,Dunwich,Dunwich,52.2769,1.6285
+670,Eye,Suffolk,England,41.74,58.26,0.07,Eye,Eye,52.2711,-2.7401
+671,Felixstowe,Suffolk,England,41.74,58.26,0.07,Felixstowe,Felixstowe,51.9639,1.3515
+672,Framlingham,Suffolk,England,41.74,58.26,0.07,Framlingham,Framlingham,52.222,1.3417
+673,Halesworth,Suffolk,England,41.74,58.26,0.07,Halesworth,Halesworth,52.3418,1.5002
+674,Haverhill,Suffolk,England,41.74,58.26,0.07,Haverhill,Haverhill,52.0833,0.4354
+675,Ipswich,Suffolk,England,41.74,58.26,0.07,Ipswich,Ipswich,52.0579,1.1526
+676,Kesgrave,Suffolk,England,41.74,58.26,0.07,Kesgrave,Kesgrave,52.0631,1.2371
+677,Leiston,Suffolk,England,41.74,58.26,0.07,Leiston,Leiston,52.2065,1.5764
+678,Lowestoft,Suffolk,England,41.74,58.26,0.07,Lowestoft,Lowestoft,52.4714,1.7293
+679,Mildenhall,Suffolk,England,41.74,58.26,0.07,Mildenhall,Mildenhall,52.3486,0.5229
+680,Needham Market,Suffolk,England,41.74,58.26,0.07,Needham Market,Needham Market,52.1528,1.0528
+681,Orford,Suffolk,England,41.74,58.26,0.07,Orford,Orford,52.095,1.5344
+682,Otley,Suffolk,England,41.74,58.26,0.07,Otley,Otley,52.1513,1.2214
+683,Otley,West Yorkshire,England,43.24000000000001,56.75999999999999,0.08333333333333333,Otley,Otley,52.1513,1.2214
+684,Saxmundham,Suffolk,England,41.74,58.26,0.07,Saxmundham,Saxmundham,52.2143,1.4918
+685,Southwold,Suffolk,England,41.74,58.26,0.07,Southwold,Southwold,52.3256,1.6809
+686,Stowmarket,Suffolk,England,41.74,58.26,0.07,Stowmarket,Stowmarket,52.1878,0.9973
+687,Sudbury,Suffolk,England,41.74,58.26,0.07,Sudbury,Sudbury,52.8856,-1.7619
+688,Woodbridge,Suffolk,England,41.74,58.26,0.07,Woodbridge,Woodbridge,52.0941,1.3201
+689,Epsom,Surrey,England,56.93333333333333,43.06666666666667,0.08,Epsom,Epsom,51.3326,-0.2678
+690,Esher,Surrey,England,56.93333333333333,43.06666666666667,0.08,Esher,Esher,51.3694,-0.3654
+691,Farnham,Surrey,England,56.93333333333333,43.06666666666667,0.08,Farnham,Farnham,51.9021,0.1425
+692,Godalming,Surrey,England,56.93333333333333,43.06666666666667,0.08,Godalming,Godalming,51.1858,-0.6149
+693,Guildford,Surrey,England,56.93333333333333,43.06666666666667,0.08,Guildford,Guildford,51.2353,-0.5654
+694,Haslemere,Surrey,England,56.93333333333333,43.06666666666667,0.08,Haslemere,Haslemere,51.0876,-0.7098
+695,Reigate,Surrey,England,56.93333333333333,43.06666666666667,0.08,Reigate,Reigate,51.2374,-0.2059
+696,Woking,Surrey,England,56.93333333333333,43.06666666666667,0.08,Woking,Woking,51.3202,-0.5565
+697,Dunston,Tyne and Wear,England,44.169999999999995,55.830000000000005,0.05333333333333334,Dunston,Dunston,52.7559,-2.1298
+698,Gateshead,Tyne and Wear,England,44.169999999999995,55.830000000000005,0.05333333333333334,Gateshead,Gateshead,54.9586,-1.6057
+699,Hetton,Tyne and Wear,England,44.169999999999995,55.830000000000005,0.05333333333333334,Hetton,Hetton,54.8193,-1.4586
+700,Jarrow,Tyne and Wear,England,44.169999999999995,55.830000000000005,0.05333333333333334,Jarrow,Jarrow,54.9819,-1.4812
+701,Newcastle upon Tyne,Tyne and Wear,England,44.169999999999995,55.830000000000005,0.05333333333333334,Newcastle upon Tyne,Newcastle upon Tyne,54.9771,-1.6142
+702,South Shields,Tyne and Wear,England,44.169999999999995,55.830000000000005,0.05333333333333334,South Shields,South Shields,54.9987,-1.4322
+703,Sunderland,Tyne and Wear,England,44.169999999999995,55.830000000000005,0.05333333333333334,Sunderland,Sunderland,54.9064,-1.3751
+704,Tynemouth,Tyne and Wear,England,44.169999999999995,55.830000000000005,0.05333333333333334,Tynemouth,Tynemouth,55.0157,-1.4213
+705,Washington,Tyne and Wear,England,44.169999999999995,55.830000000000005,0.05333333333333334,Washington,Washington,50.9046,-0.4066
+706,Alcester,Warwickshire,England,51.04,48.96,0.08,Alcester,Alcester,52.2176,-1.8684
+707,Atherstone,Warwickshire,England,51.04,48.96,0.08,Atherstone,Atherstone,52.5772,-1.5434
+708,Coleshill,Warwickshire,England,51.04,48.96,0.08,Coleshill,Coleshill,52.4979,-1.7066
+709,Henley in Arden,Warwickshire,England,51.04,48.96,0.08,Henley in Arden,Henley in Arden,52.2895,-1.7797
+710,Kenilworth,Warwickshire,England,51.04,48.96,0.08,Kenilworth,Kenilworth,52.3451,-1.5816
+711,Nuneaton,Warwickshire,England,51.04,48.96,0.08,Nuneaton,Nuneaton,52.5246,-1.4684
+712,Royal Leamington Spa,Warwickshire,England,51.04,48.96,0.08,Royal Leamington Spa,Royal Leamington Spa,52.2922,-1.5357
+713,Rugby,Warwickshire,England,51.04,48.96,0.08,Rugby,Rugby,52.3727,-1.262
+714,Shipston on Stour,Warwickshire,England,51.04,48.96,0.08,Shipston on Stour,Shipston on Stour,52.0631,-1.6304
+715,Southam,Warwickshire,England,51.04,48.96,0.08,Southam,Southam,51.9283,-2.0445
+716,Stratford upon Avon,Warwickshire,England,51.04,48.96,0.08,Stratford upon Avon,Stratford upon Avon,52.1923,-1.7058
+717,Warwick,Warwickshire,England,51.04,48.96,0.08,Warwick,Warwick,52.2851,-1.5785
+718,Whitnash,Warwickshire,England,51.04,48.96,0.08,Whitnash,Whitnash,52.2661,-1.5257
+719,Bilston,West Midlands,England,39.965,60.035,0.09000000000000001,Bilston,Bilston,55.8687,-3.1799
+720,Birmingham,West Midlands,England,39.965,60.035,0.09000000000000001,Birmingham,Birmingham,52.4777,-1.8949
+721,Blackheath,West Midlands,England,39.965,60.035,0.09000000000000001,Blackheath,Blackheath,52.4756,-2.0386
+722,Coventry,West Midlands,England,39.965,60.035,0.09000000000000001,Coventry,Coventry,52.4081,-1.5105
+723,Dudley,West Midlands,England,39.965,60.035,0.09000000000000001,Dudley,Dudley,52.5115,-2.082
+724,Fordbridge,West Midlands,England,39.965,60.035,0.09000000000000001,Fordbridge,Fordbridge,52.4834,-1.7509
+725,Halesowen,West Midlands,England,39.965,60.035,0.09000000000000001,Halesowen,Halesowen,52.4492,-2.0515
+726,Solihull,West Midlands,England,39.965,60.035,0.09000000000000001,Solihull,Solihull,52.413000000000004,-1.7769
+727,Stourbridge,West Midlands,England,39.965,60.035,0.09000000000000001,Stourbridge,Stourbridge,52.4578,-2.1474
+728,Sutton Coldfield,West Midlands,England,39.965,60.035,0.09000000000000001,Sutton Coldfield,Sutton Coldfield,52.5633,-1.8187
+729,Walsall,West Midlands,England,39.965,60.035,0.09000000000000001,Walsall,Walsall,52.5848,-1.9823
+730,West Bromwich,West Midlands,England,39.965,60.035,0.09000000000000001,West Bromwich,West Bromwich,52.5187,-1.9923
+731,Wolverhampton,West Midlands,England,39.965,60.035,0.09000000000000001,Wolverhampton,Wolverhampton,52.5848,-2.1276
+732,Arundel,West Sussex,England,47.285,52.715,0.08,Arundel,Arundel,50.8541,-0.5534
+733,Bognor Regis,West Sussex,England,47.285,52.715,0.08,Bognor Regis,Bognor Regis,50.7835,-0.6731
+734,Burgess Hill,West Sussex,England,47.285,52.715,0.08,Burgess Hill,Burgess Hill,50.9575,-0.1333
+735,Chichester,West Sussex,England,47.285,52.715,0.08,Chichester,Chichester,50.8365,-0.7792
+736,Crawley,West Sussex,England,47.285,52.715,0.08,Crawley,Crawley,51.1185,-0.1848
+737,Cuckfield,West Sussex,England,47.285,52.715,0.08,Cuckfield,Cuckfield,51.0062,-0.1424
+738,East Grinstead,West Sussex,England,47.285,52.715,0.08,East Grinstead,East Grinstead,51.1322,-0.0118
+739,Haywards Heath,West Sussex,England,47.285,52.715,0.08,Haywards Heath,Haywards Heath,51.0009,-0.1024
+740,Horsham,West Sussex,England,47.285,52.715,0.08,Horsham,Horsham,51.063,-0.3295
+741,Littlehampton,West Sussex,England,47.285,52.715,0.08,Littlehampton,Littlehampton,50.8122,-0.5367
+742,Midhurst,West Sussex,England,47.285,52.715,0.08,Midhurst,Midhurst,50.9855,-0.74
+743,Petworth,West Sussex,England,47.285,52.715,0.08,Petworth,Petworth,50.9863,-0.6101
+744,Selsey,West Sussex,England,47.285,52.715,0.08,Selsey,Selsey,50.7328,-0.7923
+745,Steyning,West Sussex,England,47.285,52.715,0.08,Steyning,Steyning,50.8902,-0.3302
+746,Worthing,West Sussex,England,47.285,52.715,0.08,Worthing,Worthing,50.8117,-0.3704
+747,Baildon,West Yorkshire,England,43.24000000000001,56.75999999999999,0.08333333333333333,Baildon,Baildon,53.8527,-1.7698
+748,Batley,West Yorkshire,England,43.24000000000001,56.75999999999999,0.08333333333333333,Batley,Batley,53.7166,-1.6364
+749,Bingley,West Yorkshire,England,43.24000000000001,56.75999999999999,0.08333333333333333,Bingley,Bingley,53.848,-1.8385
+750,Bradford,West Yorkshire,England,43.24000000000001,56.75999999999999,0.08333333333333333,Bradford,Bradford,53.7957,-1.7583
+751,Brighouse,West Yorkshire,England,43.24000000000001,56.75999999999999,0.08333333333333333,Brighouse,Brighouse,53.7027,-1.7803
+752,Denholme,West Yorkshire,England,43.24000000000001,56.75999999999999,0.08333333333333333,Denholme,Denholme,53.8019,-1.8955
+753,Dewsbury,West Yorkshire,England,43.24000000000001,56.75999999999999,0.08333333333333333,Dewsbury,Dewsbury,53.6909,-1.6302
+754,Elland,West Yorkshire,England,43.24000000000001,56.75999999999999,0.08333333333333333,Elland,Elland,53.6858,-1.8377
+755,Featherstone,West Yorkshire,England,43.24000000000001,56.75999999999999,0.08333333333333333,Featherstone,Featherstone,52.6449,-2.0925
+756,Garforth,West Yorkshire,England,43.24000000000001,56.75999999999999,0.08333333333333333,Garforth,Garforth,53.7905,-1.3925
+757,Halifax,West Yorkshire,England,43.24000000000001,56.75999999999999,0.08333333333333333,Halifax,Halifax,53.7209,-1.8675
+758,Hebden Royd,West Yorkshire,England,43.24000000000001,56.75999999999999,0.08333333333333333,Hebden Royd,Hebden Royd,53.7131,-2.0024
+759,Hemsworth,West Yorkshire,England,43.24000000000001,56.75999999999999,0.08333333333333333,Hemsworth,Hemsworth,53.6132,-1.3602
+760,Horsforth,West Yorkshire,England,43.24000000000001,56.75999999999999,0.08333333333333333,Horsforth,Horsforth,53.8389,-1.64
+761,Huddersfield,West Yorkshire,England,43.24000000000001,56.75999999999999,0.08333333333333333,Huddersfield,Huddersfield,53.6467,-1.7832
+762,Ilkley,West Yorkshire,England,43.24000000000001,56.75999999999999,0.08333333333333333,Ilkley,Ilkley,53.9257,-1.8244
+763,Keighley,West Yorkshire,England,43.24000000000001,56.75999999999999,0.08333333333333333,Keighley,Keighley,53.8684,-1.902
+764,Knottingley,West Yorkshire,England,43.24000000000001,56.75999999999999,0.08333333333333333,Knottingley,Knottingley,53.7092,-1.2383
+765,Leeds,West Yorkshire,England,43.24000000000001,56.75999999999999,0.08333333333333333,Leeds,Leeds,53.7974,-1.5438
+766,Meltham,West Yorkshire,England,43.24000000000001,56.75999999999999,0.08333333333333333,Meltham,Meltham,53.5919,-1.8505
+767,Mirfield,West Yorkshire,England,43.24000000000001,56.75999999999999,0.08333333333333333,Mirfield,Mirfield,53.6732,-1.6946
+768,Morley,West Yorkshire,England,43.24000000000001,56.75999999999999,0.08333333333333333,Morley,Morley,53.7441,-1.5989
+769,Ossett,West Yorkshire,England,43.24000000000001,56.75999999999999,0.08333333333333333,Ossett,Ossett,53.6781,-1.5766
+770,Pontefract,West Yorkshire,England,43.24000000000001,56.75999999999999,0.08333333333333333,Pontefract,Pontefract,53.6916,-1.3077
+771,Pudsey,West Yorkshire,England,43.24000000000001,56.75999999999999,0.08333333333333333,Pudsey,Pudsey,53.7958,-1.6665
+772,Shipley,West Yorkshire,England,43.24000000000001,56.75999999999999,0.08333333333333333,Shipley,Shipley,53.8322,-1.778
+773,Silsden,West Yorkshire,England,43.24000000000001,56.75999999999999,0.08333333333333333,Silsden,Silsden,53.9132,-1.9375
+774,South Elmsall,West Yorkshire,England,43.24000000000001,56.75999999999999,0.08333333333333333,South Elmsall,South Elmsall,53.5975,-1.281
+775,Todmorden,West Yorkshire,England,43.24000000000001,56.75999999999999,0.08333333333333333,Todmorden,Todmorden,53.7137,-2.0978
+776,Wakefield,West Yorkshire,England,43.24000000000001,56.75999999999999,0.08333333333333333,Wakefield,Wakefield,53.6826,-1.5
+777,Wetherby,West Yorkshire,England,43.24000000000001,56.75999999999999,0.08333333333333333,Wetherby,Wetherby,53.9284,-1.3867
+778,Amesbury,Wiltshire,England,45.34,54.66,0.08,Amesbury,Amesbury,51.1727,-1.7751
+779,Bradford on Avon,Wiltshire,England,45.34,54.66,0.08,Bradford on Avon,Bradford on Avon,51.3477,-2.2506
+780,Calne,Wiltshire,England,45.34,54.66,0.08,Calne,Calne,51.438,-2.0051
+781,Chippenham,Wiltshire,England,45.34,54.66,0.08,Chippenham,Chippenham,51.4588,-2.1159
+782,Corsham,Wiltshire,England,45.34,54.66,0.08,Corsham,Corsham,51.4303,-2.187
+783,Cricklade,Wiltshire,England,45.34,54.66,0.08,Cricklade,Cricklade,51.6414,-1.8579
+784,Devizes,Wiltshire,England,45.34,54.66,0.08,Devizes,Devizes,51.3526,-1.9959
+785,Highworth,Wiltshire,England,45.34,54.66,0.08,Highworth,Highworth,51.6314,-1.7136
+786,Ludgershall,Wiltshire,England,45.34,54.66,0.08,Ludgershall,Ludgershall,51.257,-1.6234
+787,Malmesbury,Wiltshire,England,45.34,54.66,0.08,Malmesbury,Malmesbury,51.5845,-2.0982
+788,Marlborough,Wiltshire,England,45.34,54.66,0.08,Marlborough,Marlborough,51.42100000000001,-1.729
+789,Melksham,Wiltshire,England,45.34,54.66,0.08,Melksham,Melksham,51.3726,-2.1374
+790,Mere,Wiltshire,England,45.34,54.66,0.08,Mere,Mere,51.0894,-2.2684
+791,Royal Wootton Bassett,Wiltshire,England,45.34,54.66,0.08,Royal Wootton Bassett,Royal Wootton Bassett,51.5442,-1.8972
+792,Salisbury,Wiltshire,England,45.34,54.66,0.08,Salisbury,Salisbury,51.0737,-1.7951
+793,Swindon,Wiltshire,England,45.34,54.66,0.08,Swindon,Swindon,52.5141,-2.2036
+794,Tidworth,Wiltshire,England,45.34,54.66,0.08,Tidworth,Tidworth,51.2447,-1.6639
+795,Tisbury,Wiltshire,England,45.34,54.66,0.08,Tisbury,Tisbury,51.06399999999999,-2.083
+796,Trowbridge,Wiltshire,England,45.34,54.66,0.08,Trowbridge,Trowbridge,51.3192,-2.2041
+797,Warminster,Wiltshire,England,45.34,54.66,0.08,Warminster,Warminster,51.1972,-2.1856
+798,Westbury,Wiltshire,England,45.34,54.66,0.08,Westbury,Westbury,51.2611,-2.1837
+799,Wilton,Wiltshire,England,45.34,54.66,0.08,Wilton,Wilton,51.0805,-1.8607
+800,Bewdley,Worcestershire,England,42.88666666666666,57.11333333333334,0.07666666666666667,Bewdley,Bewdley,52.3755,-2.3162
+801,Bromsgrove,Worcestershire,England,42.88666666666666,57.11333333333334,0.07666666666666667,Bromsgrove,Bromsgrove,52.3354,-2.0597
+802,Droitwich Spa,Worcestershire,England,42.88666666666666,57.11333333333334,0.07666666666666667,Droitwich Spa,Droitwich Spa,52.2685,-2.1486
+803,Evesham,Worcestershire,England,42.88666666666666,57.11333333333334,0.07666666666666667,Evesham,Evesham,52.093999999999994,-1.9483
+804,Kidderminster,Worcestershire,England,42.88666666666666,57.11333333333334,0.07666666666666667,Kidderminster,Kidderminster,52.3882,-2.2455
+805,Malvern,Worcestershire,England,42.88666666666666,57.11333333333334,0.07666666666666667,Malvern,Malvern,52.1115,-2.3269
+806,Pershore,Worcestershire,England,42.88666666666666,57.11333333333334,0.07666666666666667,Pershore,Pershore,52.1071,-2.0829
+807,Redditch,Worcestershire,England,42.88666666666666,57.11333333333334,0.07666666666666667,Redditch,Redditch,52.3058,-1.9417
+808,Stourport on Severn,Worcestershire,England,42.88666666666666,57.11333333333334,0.07666666666666667,Stourport on Severn,Stourport on Severn,52.3423,-2.2787
+809,Upton upon Severn,Worcestershire,England,42.88666666666666,57.11333333333334,0.07666666666666667,Upton upon Severn,Upton upon Severn,52.0611,-2.2151
+810,Worcester,Worcestershire,England,42.88666666666666,57.11333333333334,0.07666666666666667,Worcester,Worcester,52.1918,-2.2216
+811,Airth,Falkirk,Scotland,56.76,43.24,0.06,Airth,Airth,56.0689,-3.7696
+812,Bo'ness,Falkirk,Scotland,56.76,43.24,0.06,Bo'ness,Bo'ness,56.0169,-3.6069999999999998
+813,Bonnybridge,Falkirk,Scotland,56.76,43.24,0.06,Bonnybridge,Bonnybridge,56.003,-3.8879
+814,Carron,Falkirk,Scotland,56.76,43.24,0.06,Carron,Carron,56.0226,-3.7962
+815,Denny,Falkirk,Scotland,56.76,43.24,0.06,Denny,Denny,56.0211,-3.9092
+816,Falkirk,Falkirk,Scotland,56.76,43.24,0.06,Falkirk,Falkirk,55.9994,-3.7852
+817,Grangemouth,Falkirk,Scotland,56.76,43.24,0.06,Grangemouth,Grangemouth,56.0161,-3.7232
+818,Larbert,Falkirk,Scotland,56.76,43.24,0.06,Larbert,Larbert,56.0219,-3.8312
+819,Stenhousemuir,Falkirk,Scotland,56.76,43.24,0.06,Stenhousemuir,Stenhousemuir,56.0269,-3.8186
+820,Bridge of Allan,Stirlingshire,Scotland,67.72,32.28,0.07,Bridge of Allan,Bridge of Allan,56.1554,-3.9485
+821,Callander,Stirlingshire,Scotland,67.72,32.28,0.07,Callander,Callander,56.2437,-4.2148
+822,Doune,Stirlingshire,Scotland,67.72,32.28,0.07,Doune,Doune,56.1906,-4.0559
+823,Dunblane,Stirlingshire,Scotland,67.72,32.28,0.07,Dunblane,Dunblane,56.185,-3.9627
+824,Stirling,Stirlingshire,Scotland,67.72,32.28,0.07,Stirling,Stirling,56.1181,-3.9360000000000004
+825,Armadale,West Lothian,Scotland,45.36,54.64,0.04,Armadale,Armadale,55.8992,-3.7007
+826,Bathgate,West Lothian,Scotland,45.36,54.64,0.04,Bathgate,Bathgate,55.8985,-3.6402
+827,Blackridge,West Lothian,Scotland,45.36,54.64,0.04,Blackridge,Blackridge,55.8834,-3.7683
+828,Bridgend,West Lothian,Scotland,45.36,54.64,0.04,Bridgend,Bridgend,51.505,-3.5757
+829,Bridgend,Mid Glamorgan,Wales,43.76333333333333,56.23666666666667,0.05333333333333334,Bridgend,Bridgend,51.505,-3.5757
+830,Broxburn,West Lothian,Scotland,45.36,54.64,0.04,Broxburn,Broxburn,55.9339,-3.4848
+831,East Calder,West Lothian,Scotland,45.36,54.64,0.04,East Calder,East Calder,55.8949,-3.4643
+832,Linlithgow,West Lothian,Scotland,45.36,54.64,0.04,Linlithgow,Linlithgow,55.9771,-3.6041
+833,Livingston,West Lothian,Scotland,45.36,54.64,0.04,Livingston,Livingston,55.8836,-3.516
+834,Stoneyburn,West Lothian,Scotland,45.36,54.64,0.04,Stoneyburn,Stoneyburn,55.8482,-3.627
+835,Whitburn,West Lothian,Scotland,45.36,54.64,0.04,Whitburn,Whitburn,55.8668,-3.6849
+836,Abergele,Conwy,Wales,46.02,53.98,0.08,Abergele,Abergele,53.2841,-3.5811
+837,Colwyn Bay,Conwy,Wales,46.02,53.98,0.08,Colwyn Bay,Colwyn Bay,53.2904,-3.7087
+838,Conwy,Conwy,Wales,46.02,53.98,0.08,Conwy,Conwy,53.2812,-3.8287
+839,Conwy,Gwynedd,Wales,46.02,53.98,0.08,Conwy,Conwy,53.2812,-3.8287
+840,Llandudno,Conwy,Wales,46.02,53.98,0.08,Llandudno,Llandudno,53.3225,-3.8243
+841,Llanfairfechan,Conwy,Wales,46.02,53.98,0.08,Llanfairfechan,Llanfairfechan,53.2532,-3.9751
+842,Llanrwst,Conwy,Wales,46.02,53.98,0.08,Llanrwst,Llanrwst,53.1415,-3.7939
+843,Old Colwyn,Conwy,Wales,46.02,53.98,0.08,Old Colwyn,Old Colwyn,53.2885,-3.7015
+844,Penmaenmawr,Conwy,Wales,46.02,53.98,0.08,Penmaenmawr,Penmaenmawr,53.2681,-3.92
+845,Abertillery,Gwent,Wales,44.01,55.99,0.08,Abertillery,Abertillery,51.7299,-3.136
+846,Brynmawr,Gwent,Wales,44.01,55.99,0.08,Brynmawr,Brynmawr,51.7982,-3.174
+847,Tredegar,Gwent,Wales,44.01,55.99,0.08,Tredegar,Tredegar,51.7733,-3.247
+848,Bala,Gwynedd,Wales,46.02,53.98,0.08,Bala,Bala,52.9112,-3.5995
+849,Barmouth,Gwynedd,Wales,46.02,53.98,0.08,Barmouth,Barmouth,52.7209,-4.0536
+850,Beaumaris,Gwynedd,Wales,46.02,53.98,0.08,Beaumaris,Beaumaris,53.263000000000005,-4.0922
+851,Betws y Coed,Gwynedd,Wales,46.02,53.98,0.08,Betws y Coed,Betws y Coed,53.0942,-3.8207
+852,Caernarfon,Gwynedd,Wales,46.02,53.98,0.08,Caernarfon,Caernarfon,53.1403,-4.2764
+853,Criccieth,Gwynedd,Wales,46.02,53.98,0.08,Criccieth,Criccieth,52.9206,-4.2332
+854,Dolgellau,Gwynedd,Wales,46.02,53.98,0.08,Dolgellau,Dolgellau,52.7447,-3.8778
+855,Ffestiniog,Gwynedd,Wales,46.02,53.98,0.08,Ffestiniog,Ffestiniog,52.9843,-3.9186
+856,Harlech,Gwynedd,Wales,46.02,53.98,0.08,Harlech,Harlech,52.8588,-4.1075
+857,Holyhead,Gwynedd,Wales,46.02,53.98,0.08,Holyhead,Holyhead,53.3076,-4.6317
+858,Llanberis,Gwynedd,Wales,46.02,53.98,0.08,Llanberis,Llanberis,53.1213,-4.1277
+859,Nefyn,Gwynedd,Wales,46.02,53.98,0.08,Nefyn,Nefyn,52.9356,-4.5192
+860,Porthmadog,Gwynedd,Wales,46.02,53.98,0.08,Porthmadog,Porthmadog,52.9253,-4.1302
+861,Pwllheli,Gwynedd,Wales,46.02,53.98,0.08,Pwllheli,Pwllheli,52.8885,-4.4179
+862,Tywyn,Gwynedd,Wales,46.02,53.98,0.08,Tywyn,Tywyn,52.5861,-4.0856
+863,Y Felinheli,Gwynedd,Wales,46.02,53.98,0.08,Y Felinheli,Y Felinheli,53.1859,-4.2084
+864,Aberdare,Mid Glamorgan,Wales,43.76333333333333,56.23666666666667,0.05333333333333334,Aberdare,Aberdare,51.7134,-3.4456
+865,Caerphilly,Mid Glamorgan,Wales,43.76333333333333,56.23666666666667,0.05333333333333334,Caerphilly,Caerphilly,51.5745,-3.2208
+866,Llantrisant,Mid Glamorgan,Wales,43.76333333333333,56.23666666666667,0.05333333333333334,Llantrisant,Llantrisant,51.5415,-3.3746
+867,Maesteg,Mid Glamorgan,Wales,43.76333333333333,56.23666666666667,0.05333333333333334,Maesteg,Maesteg,51.6034,-3.6535
+868,Pontypridd,Mid Glamorgan,Wales,43.76333333333333,56.23666666666667,0.05333333333333334,Pontypridd,Pontypridd,51.5993,-3.3416
+869,Porth,Mid Glamorgan,Wales,43.76333333333333,56.23666666666667,0.05333333333333334,Porth,Porth,51.6125,-3.4084
+870,Porthcawl,Mid Glamorgan,Wales,43.76333333333333,56.23666666666667,0.05333333333333334,Porthcawl,Porthcawl,51.4795,-3.7041
+871,Fishguard,Pembrokeshire,Wales,44.01,55.99,0.08,Fishguard,Fishguard,51.9938,-4.9768
+872,Haverfordwest,Pembrokeshire,Wales,44.01,55.99,0.08,Haverfordwest,Haverfordwest,51.8023,-4.9651
+873,Milford Haven,Pembrokeshire,Wales,44.01,55.99,0.08,Milford Haven,Milford Haven,51.7117,-5.0293
+874,Narberth,Pembrokeshire,Wales,44.01,55.99,0.08,Narberth,Narberth,51.798,-4.743
+875,Neyland,Pembrokeshire,Wales,44.01,55.99,0.08,Neyland,Neyland,51.71,-4.9511
+876,Pembroke,Pembrokeshire,Wales,44.01,55.99,0.08,Pembroke,Pembroke,51.6754,-4.9145
+877,Pembroke Dock,Pembrokeshire,Wales,44.01,55.99,0.08,Pembroke Dock,Pembroke Dock,51.6935,-4.9392
+878,St Davids,Pembrokeshire,Wales,44.01,55.99,0.08,St Davids,St Davids,51.8809,-5.2655
+879,Tenby,Pembrokeshire,Wales,44.01,55.99,0.08,Tenby,Tenby,51.6726,-4.705
+880,Barry,South Glamorgan,Wales,60.02,39.98,0.08,Barry,Barry,51.4044,-3.2689999999999997
+881,Cardiff,South Glamorgan,Wales,60.02,39.98,0.08,Cardiff,Cardiff,51.4817,-3.1792
+882,Llantwit Major,South Glamorgan,Wales,60.02,39.98,0.08,Llantwit Major,Llantwit Major,51.4083,-3.4858
+883,Gorseinon,West Glamorgan,Wales,48.49,51.51,0.1,Gorseinon,Gorseinon,51.6705,-4.0441
+884,Neath,West Glamorgan,Wales,48.49,51.51,0.1,Neath,Neath,51.6628,-3.8039
+885,Port Talbot,West Glamorgan,Wales,48.49,51.51,0.1,Port Talbot,Port Talbot,51.5968,-3.7609
+886,Swansea,West Glamorgan,Wales,48.49,51.51,0.1,Swansea,Swansea,51.6211,-3.9468
+887,Chirk,Wrexham,Wales,40.96,59.04,0.06,Chirk,Chirk,52.931999999999995,-3.0564
